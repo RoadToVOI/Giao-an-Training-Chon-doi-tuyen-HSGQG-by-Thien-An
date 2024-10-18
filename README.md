@@ -1,4 +1,4 @@
- # Giáo án Training HSG Tỉnh by Nobody
+# Giáo án Training HSG Tỉnh by Thiên An
 Giáo án đi từ những kiến thức nền tảng quan trọng nhất cho đến nâng cao, tập trung hướng đến kì thi HSG Tỉnh - Chọn đội tuyển tham dự kỳ thi HSG QG. 
 
 ## Dấu ấn cá nhân
@@ -157,12 +157,15 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Sum of Three Values](https://cses.fi/problemset/task/1641)| |
-[Bộ số tam giác](https://lqdoj.edu.vn/problem/1819bosotg)| |
-[Khai bút đầu xuân](https://oj.vnoi.info/problem/sopenp)| |
+[Sum of Three Values](https://cses.fi/problemset/task/1641)| | [code](https://ideone.com/vJgOX4)
+[Bộ số tam giác](https://lqdoj.edu.vn/problem/1819bosotg)| | [code](https://ideone.com/tT4Svh)
+[Ferris Wheel](https://cses.fi/problemset/task/1090)| |
+[Apartments](https://cses.fi/problemset/task/1084)| |
+[Khai bút đầu xuân](https://oj.vnoi.info/problem/sopenp)| | [code](https://ideone.com/zim6uQ)
 [VM 14 Bài 05 - Quá béo](https://oj.vnoi.info/problem/vmquabeo)| |
 [[QNOI 2021] Khiêu vũ](https://nbk.homes/problem/qn21dance)| |
 [VOI 08 Bài 1 - Trò chơi với dãy số](https://oj.vnoi.info/problem/nksgame)| |
+
 ## Phần III: Cấu trúc dữ liệu
 ### Chương 1: set/multiset, map, priority_queue 
 #### Tài liệu: 
@@ -212,7 +215,7 @@ Những OJ để làm bài tập, contest:
 [Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT x Prefix Sum|  [code](https://ideone.com/2CS8w5)
 [Salary Queries](https://cses.fi/problemset/task/1144/)| BIT x Nén số| [code](https://ideone.com/wVOedy)
 [D-query](https://oj.vnoi.info/problem/dquery)| Distinct Value Queries | [code](https://ideone.com/PUZYgc)
-[Khoảng cách](https://lqdoj.edu.vn/problem/dist2021)| Binary Search x BIT |
+[Khoảng cách](https://lqdoj.edu.vn/problem/dist2021)| Binary Search x Two Pointers x BIT |
 [VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search x Prefix Sum x DP Optimization using BIT| [code](https://ideone.com/hIKz18)
 
 ### Chương 4: Cây phân đoạn (Segment Tree)
