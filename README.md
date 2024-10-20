@@ -159,12 +159,12 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [Sum of Three Values](https://cses.fi/problemset/task/1641)| | [code](https://ideone.com/vJgOX4)
 [Bộ số tam giác](https://lqdoj.edu.vn/problem/1819bosotg)| | [code](https://ideone.com/tT4Svh)
-[Ferris Wheel](https://cses.fi/problemset/task/1090)| |
-[Apartments](https://cses.fi/problemset/task/1084)| |
-[Khai bút đầu xuân](https://oj.vnoi.info/problem/sopenp)| | [code](https://ideone.com/zim6uQ)
-[VM 14 Bài 05 - Quá béo](https://oj.vnoi.info/problem/vmquabeo)| |
-[[QNOI 2021] Khiêu vũ](https://nbk.homes/problem/qn21dance)| |
-[VOI 08 Bài 1 - Trò chơi với dãy số](https://oj.vnoi.info/problem/nksgame)| |
+[Ferris Wheel](https://cses.fi/problemset/task/1090)| | [code](https://ideone.com/wCYGFV)
+[Apartments](https://cses.fi/problemset/task/1084)| | [code](https://ideone.com/r3rVSZ)
+[Khai bút đầu xuân](https://oj.vnoi.info/problem/sopenp)| | [code](https://ideone.com/LHHHtj)
+[VM 14 Bài 05 - Quá béo](https://oj.vnoi.info/problem/vmquabeo)| | [code](https://ideone.com/5ZCIhd)
+[[QNOI 2021] Khiêu vũ](https://nbk.homes/problem/qn21dance)| | [code](https://ideone.com/Jx5IIJ)
+[VOI 08 Bài 1 - Trò chơi với dãy số](https://oj.vnoi.info/problem/nksgame)| | [code](https://ideone.com/mCYktm)
 
 ## Phần III: Cấu trúc dữ liệu
 ### Chương 1: set/multiset, map, priority_queue 
