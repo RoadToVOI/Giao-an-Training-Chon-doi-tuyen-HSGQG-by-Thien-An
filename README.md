@@ -616,9 +616,7 @@ Problems| Tags| Editorial
 [D. Palindrome Degree](https://codeforces.com/contest/7/problem/D)| |
 [Palindrome Queries](https://cses.fi/problemset/task/2420)| Segment Tree x Hashing|
 [ITSTR](https://oj.vnoi.info/problem/segtree_itstr)| |
-[F. Isomorphic Strings](https://codeforces.com/contest/985/problem/F)
 [D. Good Substrings](https://codeforces.com/contest/271/problem/D)| |
-[C. Watto and Mechanism](https://codeforces.com/contest/514/problem/C)| |
 [Bracket Circle](https://oj.vnoi.info/problem/codetour24_c2_c)| |
 #### XOR Hasing / Sum Hashing:
 |Problems |Tags |Editorial
