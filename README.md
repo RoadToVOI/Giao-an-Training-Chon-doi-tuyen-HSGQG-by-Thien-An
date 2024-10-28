@@ -610,13 +610,14 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [String Matching](https://cses.fi/problemset/task/1753/)| | [code](https://ideone.com/ztki97)
-[Finding Periods](https://cses.fi/problemset/task/1733/)| | 
-[Minimal Rotation](https://cses.fi/problemset/task/1110)| |
-[Longest Palindrome](https://cses.fi/problemset/task/1111)| |
-[D. Palindrome Degree](https://codeforces.com/contest/7/problem/D)| |
-[Palindrome Queries](https://cses.fi/problemset/task/2420)| Segment Tree x Hashing|
-[ITSTR](https://oj.vnoi.info/problem/segtree_itstr)| |
+[Finding Periods](https://cses.fi/problemset/task/1733/)| | [code](https://ideone.com/QJpTK8) 
+[Minimal Rotation](https://cses.fi/problemset/task/1110)| | [code](https://ideone.com/NoZw78)
+[Longest Palindrome](https://cses.fi/problemset/task/1111)| | [code](https://ideone.com/3xW0NM)
+[D. Palindrome Degree](https://codeforces.com/contest/7/problem/D)| | [code](https://ideone.com/TpVKAi)
+[Palindrome Queries](https://cses.fi/problemset/task/2420)| Segment Tree x Hashing| [code](https://ideone.com/LhI4tW)
+[ITSTR](https://oj.vnoi.info/problem/segtree_itstr)| | [code](https://ideone.com/33UgG7)
 [D. Good Substrings](https://codeforces.com/contest/271/problem/D)| |
+[Repeating Substring](https://cses.fi/problemset/task/2106/)| |
 [Bracket Circle](https://oj.vnoi.info/problem/codetour24_c2_c)| |
 #### XOR Hasing / Sum Hashing:
 |Problems |Tags |Editorial
