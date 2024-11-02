@@ -285,22 +285,19 @@ Những OJ để làm bài tập, contest:
 [Movie Festival Queries](https://cses.fi/problemset/task/1664)| | [code](https://ideone.com/eOcntW)
 [Increasing Array Queries](https://cses.fi/problemset/task/2416)| | [code](https://ideone.com/IsGYaa)
 [E - Permute K times](https://atcoder.jp/contests/abc367/tasks/abc367_e)| |
-### Chương 7: DSU x Small to Large
-#### Tài liệu: 
-- [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html) (cp-algorithms)
-- [Small-To-Large Merging](https://usaco.guide/plat/merging?lang=cpp) (USACO Guide) 
+
+### Chương 7: Bitset
+#### Tài liệu:
+- [Bitsets](https://usaco.guide/plat/bitsets?lang=cpp) (USACO Guide)
+- [Bitwise operations 2 — popcount & bitsets](https://codeforces.com/blog/entry/73558) (blog Codeforces)
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Quản lý vùng BALLAS](https://lqdoj.edu.vn/problem/connect)| |
-[Yugi-Oh](https://oj.vnoi.info/problem/yugi)
-[Phá đường](https://oj.vnoi.info/problem/qhroad)| |
-[A. Knight Tournament](https://codeforces.com/problemset/problem/356/A)| |
-[Color query](https://oj.vnoi.info/problem/colquery)| |
-[Distinct Colors](https://cses.fi/problemset/task/1139)| |
-[E. Lomsat gelral](https://codeforces.com/contest/600/problem/E)| |
-[G. Path Queries](https://codeforces.com/contest/1213/problem/G)| |
-[Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| |
+[Hamming Distance](https://cses.fi/problemset/task/2136)| |
+[Beautiful Subgrids](https://cses.fi/problemset/task/2137)| |
+[School Excursion](https://cses.fi/problemset/task/1706)| |
+[Reachable Nodes](https://cses.fi/problemset/task/2138)| |
+[Reachability Queries](https://cses.fi/problemset/result/4538571/)| |
 
 ## Phần IV: Quay lui, Vét cạn
 ### Chương 1: Quay lui, vét cạn (Backtracking)
@@ -496,7 +493,24 @@ Problems| Tags| Editorial
 [Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)| |
 [Mountain Walking](https://oj.vnoi.info/problem/mtwalk)| |
 
-### Chương 2: Cây khung nhỏ nhất (MST) - Thuật toán Kruskal
+### Chương 2: DSU x Small to Large
+#### Tài liệu: 
+- [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html) (cp-algorithms)
+- [Small-To-Large Merging](https://usaco.guide/plat/merging?lang=cpp) (USACO Guide) 
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Quản lý vùng BALLAS](https://lqdoj.edu.vn/problem/connect)| |
+[Yugi-Oh](https://oj.vnoi.info/problem/yugi)
+[Phá đường](https://oj.vnoi.info/problem/qhroad)| |
+[A. Knight Tournament](https://codeforces.com/problemset/problem/356/A)| |
+[Color query](https://oj.vnoi.info/problem/colquery)| |
+[Distinct Colors](https://cses.fi/problemset/task/1139)| |
+[E. Lomsat gelral](https://codeforces.com/contest/600/problem/E)| |
+[G. Path Queries](https://codeforces.com/contest/1213/problem/G)| |
+[Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| |
+
+### Chương 3: Cây khung nhỏ nhất (MST) - Thuật toán Kruskal
 #### Tài liệu: 
 - [Minimum spanning tree - Kruskal's algorithm](https://cp-algorithms.com/graph/mst_kruskal.html) (cp-algorithms)
 #### Bài tập:
@@ -504,7 +518,7 @@ Problems| Tags| Editorial
 |--|:--:|:--:
 [Cây khung nhỏ nhất (HEAP)](https://oj.vnoi.info/problem/qbmst)| |
 
-### Chương 3: Đường đi ngắn nhất
+### Chương 4: Đường đi ngắn nhất
 #### Tài liệu:
 - [Breadth-first search](https://cp-algorithms.com/graph/breadth-first-search.html) (cp-algorithms)
 - [Dijkstra on sparse graphs](https://cp-algorithms.com/graph/dijkstra_sparse.html) (cp-algorithms)
@@ -523,13 +537,13 @@ Problems| Tags| Editorial
 [Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)| |
 [Đến trường](https://oj.vnoi.info/problem/qbschool)| |
 
-### Chương 4: DAG
+### Chương 5: DAG
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)| |
 
-### Chương 5: Cây DFS
+### Chương 6: Cây DFS
 #### Tài liệu: 
 - [Cây DFS (Depth-First Search Tree) và ứng dụng](https://wiki.vnoi.info/algo/graph-theory/Depth-First-Search-Tree.md) (VNOI Wiki)
 #### Bài tập: 
@@ -616,16 +630,16 @@ Problems| Tags| Editorial
 [D. Palindrome Degree](https://codeforces.com/contest/7/problem/D)| | [code](https://ideone.com/TpVKAi)
 [Palindrome Queries](https://cses.fi/problemset/task/2420)| Segment Tree x Hashing| [code](https://ideone.com/LhI4tW)
 [ITSTR](https://oj.vnoi.info/problem/segtree_itstr)| | [code](https://ideone.com/33UgG7)
-[D. Good Substrings](https://codeforces.com/contest/271/problem/D)| |
-[Repeating Substring](https://cses.fi/problemset/task/2106/)| |
-[Bracket Circle](https://oj.vnoi.info/problem/codetour24_c2_c)| |
+[D. Good Substrings](https://codeforces.com/contest/271/problem/D)| | [code](https://ideone.com/dKOlBY)
+[Repeating Substring](https://cses.fi/problemset/task/2106/)| | [code](https://ideone.com/XkXDLG)
+[Bracket Circle](https://oj.vnoi.info/problem/codetour24_c2_c)| | [code](https://ideone.com/MwR1sz)
 #### XOR Hasing / Sum Hashing:
 |Problems |Tags |Editorial
 |--|:--:|:--: 
-[Lật xu](https://lqdoj.edu.vn/problem/coinflip)| XOR Hashing | [code](https://ideone.com/NCXh8t)
-[E - Prefix Equality](https://atcoder.jp/contests/abc250/tasks/abc250_e)
-[C. Double Profiles](https://codeforces.com/problemset/problem/154/C)| Rolling Hash x XOR Hashing|
-[F - Rearrange Query](https://atcoder.jp/contests/abc367/tasks/abc367_f)| Sum Hashing |
+[Lật xu](https://lqdoj.edu.vn/problem/coinflip)| XOR Hashing | [code](https://ideone.com/dKglnw)
+[E - Prefix Equality](https://atcoder.jp/contests/abc250/tasks/abc250_e)| | [code](https://ideone.com/x4tyk0)
+[C. Double Profiles](https://codeforces.com/problemset/problem/154/C)| | [code](https://ideone.com/5stJQH)
+[F - Rearrange Query](https://atcoder.jp/contests/abc367/tasks/abc367_f)| Sum Hashing | [code](https://ideone.com/nKJ0uh)
 
 ### Chương 2: Trie
 #### Tài liệu: 
@@ -639,7 +653,7 @@ Problems| Tags| Editorial
 [Chuỗi từ](https://oj.vnoi.info/problem/chain2)| | [code](https://ideone.com/ed2E0k)
 [Tìm kiếm động cơ](https://oj.vnoi.info/problem/trie_ddsearch)| | [code](https://ideone.com/EVC17H)
 [E - Lexicographical disorder](https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_e)| | [code](https://ideone.com/A6ACKw)
-[Xâu đối xứng](https://oj.vnoi.info/problem/palinx)| |
+[Xâu đối xứng](https://oj.vnoi.info/problem/palinx)| | [code](https://ideone.com/KdWicn)
 #### Trie số nguyên: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
