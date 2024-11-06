@@ -179,7 +179,7 @@ Những OJ để làm bài tập, contest:
 [Concert Tickets](https://cses.fi/problemset/task/1091) | multiset | [code](https://ideone.com/3wzdle)
 [C. Registration system](https://codeforces.com/problemset/problem/4/C)| map | [code](https://codeforces.com/contest/4/submission/237862811)
 [Traffic Lights](https://cses.fi/problemset/task/1163)| set x multiset |
-
+[Sliding Window Cost](https://cses.fi/problemset/task/1077)| multiset |
 ### Chương 2: Tổng tiền tố (Prefix Sum)
 #### Tài liệu: 
 - [2 bài toán về tổng tiền tố](https://ideone.com/emriDj) (Nobody)
@@ -293,10 +293,9 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Hamming Distance](https://cses.fi/problemset/task/2136)| |
-[Beautiful Subgrids](https://cses.fi/problemset/task/2137)| |
-[School Excursion](https://cses.fi/problemset/task/1706)| |
-[Reachable Nodes](https://cses.fi/problemset/task/2138)| |
+[Beautiful Subgrids](https://cses.fi/problemset/task/2137)| | [code](https://ideone.com/2FDKjf)
+[School Excursion](https://cses.fi/problemset/task/1706)| | [code](https://ideone.com/9GuMrO)
+[Reachable Nodes](https://cses.fi/problemset/task/2138)| | [code](https://ideone.com/Jw0oIo)
 [Reachability Queries](https://cses.fi/problemset/result/4538571/)| |
 
 ## Phần IV: Quay lui, Vét cạn
@@ -388,6 +387,7 @@ Những OJ để làm bài tập, contest:
 [H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| | [code](https://ideone.com/Q0QjEl)
 [VOI 15 Bài 4 - Cắt hình](https://oj.vnoi.info/problem/mincut)| | [code](https://ideone.com/BVAZvm)
 [Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| | [code](https://ideone.com/ZX0pOR)
+[VOI 19 Bài 1 - Năng lượng mặt trời](https://oj.vnoi.info/problem/voi19_solpin)| | 
 #### Lý thuyết trò chơi: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -408,7 +408,7 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [code](https://ideone.com/WrIZUQ)
+[Hamming Distance](https://cses.fi/problemset/task/2136)| | [code](https://ideone.com/ZwIA2J)
 [D - XOR World](https://atcoder.jp/contests/abc121/tasks/abc121_d)| |
 ### Chương 2.2: Quy hoạch động Bitmask (DP Bitmask) 
 #### Tài liệu: 
@@ -453,6 +453,7 @@ Những OJ để làm bài tập, contest:
 [E - Digit Products](https://atcoder.jp/contests/abc208/tasks/abc208_e)| | [code](https://ideone.com/E3SnyC)
 [D. Magic Numbers](https://codeforces.com/contest/628/problem/D)| | [code](https://ideone.com/d9Yv6f)
 [E. Salazar Slytherin's Locket](https://codeforces.com/problemset/problem/855/E)| | [code](https://ideone.com/JpiZH5)
+[D. Beautiful numbers](https://codeforces.com/problemset/problem/55/D)| |
 #### Tính tổng các số trong đoạn [L, R] thoả mãn điều kiện: 
 |Problems |Tags | Editorial
 |--|:--:|:--:
@@ -489,10 +490,9 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Counting Rooms](https://cses.fi/problemset/task/1192)| |
-[Bộ ba cao thủ](https://oj.vnoi.info/problem/nktrio)| |
 [Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)| |
 [Mountain Walking](https://oj.vnoi.info/problem/mtwalk)| |
-
+[Swap Game](https://cses.fi/problemset/task/1670/)| |
 ### Chương 2: DSU x Small to Large
 #### Tài liệu: 
 - [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html) (cp-algorithms)
@@ -522,6 +522,7 @@ Problems| Tags| Editorial
 #### Tài liệu:
 - [Breadth-first search](https://cp-algorithms.com/graph/breadth-first-search.html) (cp-algorithms)
 - [Dijkstra on sparse graphs](https://cp-algorithms.com/graph/dijkstra_sparse.html) (cp-algorithms)
+- [0-1 BFS](https://cp-algorithms.com/graph/01_bfs.html)
 #### Bài tập: 
 #### BFS: 
 |Problems |Tags |Editorial
@@ -536,7 +537,11 @@ Problems| Tags| Editorial
 [VM 08 Bài 13 - Bin Laden](https://oj.vnoi.info/problem/binladen)| |
 [Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)| |
 [Đến trường](https://oj.vnoi.info/problem/qbschool)| |
-
+#### 0-1 BFS:
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[E - Bishop 2](https://atcoder.jp/contests/abc246/tasks/abc246_e)| |
+[B. Labyrinth](https://codeforces.com/contest/1063/problem/B)| |
 ### Chương 5: DAG
 #### Bài tập: 
 |Problems |Tags |Editorial
