@@ -336,6 +336,7 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Dãy con tăng dài nhất (bản dễ)](https://oj.vnoi.info/problem/liq)| | [code](https://ideone.com/nY88Fc)
+[F - \|LIS\| = 3](https://atcoder.jp/contests/abc237/tasks/abc237_f)
 #### Dãy con chung:
 |Problems |Tags |Editorial
 |--|:--:|:--: 
@@ -490,9 +491,9 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Counting Rooms](https://cses.fi/problemset/task/1192)| |
+[Quảng cáo](https://oj.vnoi.info/problem/ads)| |   
 [Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)| |
 [Mountain Walking](https://oj.vnoi.info/problem/mtwalk)| |
-[Swap Game](https://cses.fi/problemset/task/1670/)| |
 ### Chương 2: DSU x Small to Large
 #### Tài liệu: 
 - [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html) (cp-algorithms)
@@ -517,7 +518,9 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Cây khung nhỏ nhất (HEAP)](https://oj.vnoi.info/problem/qbmst)| |
-
+[Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)| |
+[VM 14 Bài 18 - Cây khung](https://oj.vnoi.info/problem/vmst)| |
+[Riêng một góc trời](https://nbk.homes/problem/cwdrmgt)
 ### Chương 4: Đường đi ngắn nhất
 #### Tài liệu:
 - [Breadth-first search](https://cp-algorithms.com/graph/breadth-first-search.html) (cp-algorithms)
@@ -528,6 +531,8 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Labyrinth](https://cses.fi/problemset/task/1193)| |
+[Mountain Walking](https://oj.vnoi.info/problem/qbbishop)| |
+[Swap Game](https://cses.fi/problemset/task/1670/)| |
 [Monsters](https://cses.fi/problemset/task/1194)| Multi-source BFS| 
 #### Dijkstra: 
 |Problems |Tags |Editorial
@@ -537,6 +542,9 @@ Problems| Tags| Editorial
 [VM 08 Bài 13 - Bin Laden](https://oj.vnoi.info/problem/binladen)| |
 [Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)| |
 [Đến trường](https://oj.vnoi.info/problem/qbschool)| |
+[Visiting Cities](https://cses.fi/problemset/task/1203)| |
+[VOI 17 Bài 4 - Tàu điện ngầm](https://oj.vnoi.info/problem/voi17_metro)| | 
+[ELEVATOR II](https://oj.vnoi.info/problem/mele2)| |
 #### 0-1 BFS:
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -552,22 +560,21 @@ Problems| Tags| Editorial
 #### Tài liệu: 
 - [Cây DFS (Depth-First Search Tree) và ứng dụng](https://wiki.vnoi.info/algo/graph-theory/Depth-First-Search-Tree.md) (VNOI Wiki)
 #### Bài tập: 
-#### Các loại cạnh, tìm chu trình: 
+#### Đồ thị vô hướng:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Round Trip](https://cses.fi/problemset/task/1669)| |
-[Round Trip II](https://cses.fi/problemset/task/1678)| |
-#### Khớp, cầu: 
-|Problems |Tags |Editorial
-|--|:--:|:--:
-[Tìm khớp và cầu (Cơ bản)](https://oj.vnoi.info/problem/graph_)| |
+[Round Trip](https://cses.fi/problemset/task/1669)| Tìm chu trình |
+[ICPC 2023 vòng Quốc gia - J: Jumbled Graph](https://oj.vnoi.info/problem/icpc23_national_j)| DP - cây DFS| 
+[Tìm khớp và cầu (Cơ bản)](https://oj.vnoi.info/problem/graph_)| Khớp và cầu |
 [Sửa cầu](https://oj.vnoi.info/problem/kbuild)| |
+[VOI 15 Bài 3 - Kế hoạch cải tổ](https://oj.vnoi.info/problem/reform)| |
 [Police](https://oj.vnoi.info/problem/nkpolice)| |
-#### Thành phần liên thông mạnh (SCC):
+#### Đồ thị có hướng: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)| |
-[Truyền tin](https://oj.vnoi.info/problem/message)| |
+[Round Trip II](https://cses.fi/problemset/task/1678)| Tìm chu trình|
+[Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)| Thành phần liên thông mạnh |
+[Truyền tin](https://oj.vnoi.info/problem/message)| Nén thành phần liên thông mạnh |
 [Coin Collector](https://cses.fi/problemset/task/1686)| |
 
 ## Phần VII: Cây  
@@ -593,6 +600,7 @@ Problems| Tags| Editorial
 [Distance Queries](https://cses.fi/problemset/task/1135)| |
 [Lubenica](https://oj.vnoi.info/problem/lubenica)| |
 [Counting Paths](https://cses.fi/problemset/task/1136)| |
+[Cây Nhi](https://lqdoj.edu.vn/problem/tkpc07tree)| | 
 [VOI 11 Bài 6 - Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)| |
 
 ### Chương 3: Quy hoạch động trên Cây (DP on Trees)
