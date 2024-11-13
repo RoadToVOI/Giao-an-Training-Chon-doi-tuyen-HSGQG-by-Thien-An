@@ -483,10 +483,9 @@ Problems| Tags| Editorial
 [Knuth Division](https://cses.fi/problemset/task/2088)| Knuth's Optimization | [code](https://ideone.com/iNUh48)
 
 ## Phần VI: Đồ thị (Graphs)
-### Chương 1: Duyệt đồ thị (DFS/BFS)
+### Chương 1: Duyệt đồ thị (DFS / BFS)
 #### Tài liệu:
 - [Graph Traversal](https://usaco.guide/silver/graph-traversal?lang=cpp) (USACO Guide)
-
 #### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -494,6 +493,9 @@ Problems| Tags| Editorial
 [Quảng cáo](https://oj.vnoi.info/problem/ads)| |   
 [Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)| |
 [Mountain Walking](https://oj.vnoi.info/problem/mtwalk)| |
+[Building Teams](https://cses.fi/problemset/task/1668)| |
+[Robot UpRace](https://oj.vnoi.info/problem/codetour24_f_e)| |
+
 ### Chương 2: DSU x Small to Large
 #### Tài liệu: 
 - [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html) (cp-algorithms)
@@ -541,7 +543,7 @@ Problems| Tags| Editorial
 [Flight Routes](https://cses.fi/problemset/task/1196)| | 
 [VM 08 Bài 13 - Bin Laden](https://oj.vnoi.info/problem/binladen)| |
 [Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)| |
-[Đến trường](https://oj.vnoi.info/problem/qbschool)| |
+[Investigation](https://cses.fi/problemset/task/1202)| |
 [Visiting Cities](https://cses.fi/problemset/task/1203)| |
 [VOI 17 Bài 4 - Tàu điện ngầm](https://oj.vnoi.info/problem/voi17_metro)| | 
 [ELEVATOR II](https://oj.vnoi.info/problem/mele2)| |
@@ -555,6 +557,7 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)| |
+[Game Routes](https://cses.fi/problemset/task/1681)| |
 
 ### Chương 6: Cây DFS
 #### Tài liệu: 
