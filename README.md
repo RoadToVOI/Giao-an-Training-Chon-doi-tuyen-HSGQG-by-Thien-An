@@ -489,7 +489,7 @@ Problems| Tags| Editorial
 #### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Counting Rooms](https://cses.fi/problemset/task/1192)| |
+[Counting Rooms](https://cses.fi/problemset/task/1192)| | [code](https://ideone.com/LaW5Xh)
 [Quảng cáo](https://oj.vnoi.info/problem/ads)| |   
 [Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)| |
 [Mountain Walking](https://oj.vnoi.info/problem/mtwalk)| |
