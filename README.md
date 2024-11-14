@@ -178,6 +178,7 @@ Những OJ để làm bài tập, contest:
 [Distinct Numbers](https://cses.fi/problemset/task/1621)| set | [code](https://cses.fi/paste/31e85f1592f49d697d8dd3/)
 [Concert Tickets](https://cses.fi/problemset/task/1091) | multiset | [code](https://ideone.com/3wzdle)
 [C. Registration system](https://codeforces.com/problemset/problem/4/C)| map | [code](https://codeforces.com/contest/4/submission/237862811)
+[Chess Tournament](https://cses.fi/problemset/task/1697)| priority_queue | 
 [Traffic Lights](https://cses.fi/problemset/task/1163)| set x multiset |
 [Sliding Window Cost](https://cses.fi/problemset/task/1077)| multiset |
 ### Chương 2: Tổng tiền tố (Prefix Sum)
@@ -486,6 +487,8 @@ Problems| Tags| Editorial
 ### Chương 1: Duyệt đồ thị (DFS / BFS)
 #### Tài liệu:
 - [Graph Traversal](https://usaco.guide/silver/graph-traversal?lang=cpp) (USACO Guide)
+- [Search for connected components in a graph](https://cp-algorithms.com/graph/search-for-connected-components.html) (cp-algorithms) 
+- [Check whether a graph is bipartite](https://cp-algorithms.com/graph/bipartite-check.html) (cp-algorithms)
 #### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -493,7 +496,7 @@ Problems| Tags| Editorial
 [Quảng cáo](https://oj.vnoi.info/problem/ads)| |   
 [Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)| |
 [Mountain Walking](https://oj.vnoi.info/problem/mtwalk)| |
-[Building Teams](https://cses.fi/problemset/task/1668)| |
+[Building Teams](https://cses.fi/problemset/task/1668)| | [code](https://ideone.com/RdUTks)
 [Robot UpRace](https://oj.vnoi.info/problem/codetour24_f_e)| |
 
 ### Chương 2: DSU x Small to Large
@@ -503,7 +506,7 @@ Problems| Tags| Editorial
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Quản lý vùng BALLAS](https://lqdoj.edu.vn/problem/connect)| |
+[Quản lý vùng BALLAS](https://lqdoj.edu.vn/problem/connect)| | [code](https://ideone.com/JP7G5j)
 [Yugi-Oh](https://oj.vnoi.info/problem/yugi)
 [Phá đường](https://oj.vnoi.info/problem/qhroad)| |
 [A. Knight Tournament](https://codeforces.com/problemset/problem/356/A)| |
