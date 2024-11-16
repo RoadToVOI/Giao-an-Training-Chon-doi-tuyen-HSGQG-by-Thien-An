@@ -492,12 +492,12 @@ Problems| Tags| Editorial
 #### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Counting Rooms](https://cses.fi/problemset/task/1192)| | [code](https://ideone.com/LaW5Xh)
-[Quảng cáo](https://oj.vnoi.info/problem/ads)| |   
-[Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)| |
-[Mountain Walking](https://oj.vnoi.info/problem/mtwalk)| |
-[Building Teams](https://cses.fi/problemset/task/1668)| | [code](https://ideone.com/RdUTks)
-[Robot UpRace](https://oj.vnoi.info/problem/codetour24_f_e)| |
+[Counting Rooms](https://cses.fi/problemset/task/1192)| | [code](https://ideone.com/NVHrU5)
+[Quảng cáo](https://oj.vnoi.info/problem/ads)| | [code](https://ideone.com/eLuszV) 
+[Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)| | [code](https://ideone.com/ZEl5nM)
+[Mountain Walking](https://oj.vnoi.info/problem/mtwalk)| | [code](https://ideone.com/79mZKJ)
+[Building Teams](https://cses.fi/problemset/task/1668)| | [code](https://ideone.com/BR3SxI)
+[Robot UpRace](https://oj.vnoi.info/problem/codetour24_f_e)| | [code](https://ideone.com/Zg91Rr)
 
 ### Chương 2: DSU x Small to Large
 #### Tài liệu: 
@@ -516,7 +516,7 @@ Problems| Tags| Editorial
 [G. Path Queries](https://codeforces.com/contest/1213/problem/G)| |
 [Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| |
 
-### Chương 3: Cây khung nhỏ nhất (MST) - Thuật toán Kruskal
+### Chương 3: Cây khung nhỏ nhất (MST)
 #### Tài liệu: 
 - [Minimum spanning tree - Kruskal's algorithm](https://cp-algorithms.com/graph/mst_kruskal.html) (cp-algorithms)
 #### Bài tập:
