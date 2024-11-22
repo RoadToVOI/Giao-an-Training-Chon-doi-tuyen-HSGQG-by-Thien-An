@@ -510,6 +510,7 @@ Problems| Tags| Editorial
 [Yugi-Oh](https://oj.vnoi.info/problem/yugi)
 [Phá đường](https://oj.vnoi.info/problem/qhroad)| |
 [A. Knight Tournament](https://codeforces.com/problemset/problem/356/A)| |
+[CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)| | 
 [G. Path Queries](https://codeforces.com/contest/1213/problem/G)| |
 [Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| |
 #### Small to Large: 
