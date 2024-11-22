@@ -510,11 +510,14 @@ Problems| Tags| Editorial
 [Yugi-Oh](https://oj.vnoi.info/problem/yugi)
 [Phá đường](https://oj.vnoi.info/problem/qhroad)| |
 [A. Knight Tournament](https://codeforces.com/problemset/problem/356/A)| |
+[G. Path Queries](https://codeforces.com/contest/1213/problem/G)| |
+[Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| |
+#### Small to Large: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
 [Color query](https://oj.vnoi.info/problem/colquery)| |
 [Distinct Colors](https://cses.fi/problemset/task/1139)| |
 [E. Lomsat gelral](https://codeforces.com/contest/600/problem/E)| |
-[G. Path Queries](https://codeforces.com/contest/1213/problem/G)| |
-[Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| |
 
 ### Chương 3: Cây khung nhỏ nhất (MST)
 #### Tài liệu: 
@@ -526,6 +529,7 @@ Problems| Tags| Editorial
 [Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)| |
 [VM 14 Bài 18 - Cây khung](https://oj.vnoi.info/problem/vmst)| |
 [Riêng một góc trời](https://nbk.homes/problem/cwdrmgt)
+[G. MinOr Tree](https://codeforces.com/problemset/problem/1624/G)| | 
 ### Chương 4: Đường đi ngắn nhất
 #### Tài liệu:
 - [Breadth-first search](https://cp-algorithms.com/graph/breadth-first-search.html) (cp-algorithms)
@@ -608,6 +612,7 @@ Problems| Tags| Editorial
 [Counting Paths](https://cses.fi/problemset/task/1136)| |
 [Cây Nhi](https://lqdoj.edu.vn/problem/tkpc07tree)| | 
 [VOI 11 Bài 6 - Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)| |
+[E. Minimum spanning tree for each edge](https://codeforces.com/problemset/problem/609/E)| | 
 
 ### Chương 3: Quy hoạch động trên Cây (DP on Trees)
 #### Tài liệu: 
