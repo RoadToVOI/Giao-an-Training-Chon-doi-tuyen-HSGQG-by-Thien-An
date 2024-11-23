@@ -504,15 +504,16 @@ Problems| Tags| Editorial
 - [Disjoint Set Union](https://cp-algorithms.com/data_structures/disjoint_set_union.html) (cp-algorithms)
 - [Small-To-Large Merging](https://usaco.guide/plat/merging?lang=cpp) (USACO Guide) 
 #### Bài tập: 
+#### DSU: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Quản lý vùng BALLAS](https://lqdoj.edu.vn/problem/connect)| | [code](https://ideone.com/JP7G5j)
-[Yugi-Oh](https://oj.vnoi.info/problem/yugi)
-[Phá đường](https://oj.vnoi.info/problem/qhroad)| |
-[A. Knight Tournament](https://codeforces.com/problemset/problem/356/A)| |
-[CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)| | 
-[G. Path Queries](https://codeforces.com/contest/1213/problem/G)| |
-[Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| |
+[Quản lý vùng BALLAS](https://lqdoj.edu.vn/problem/connect)| | [code](https://ideone.com/gEAqFb)
+[Phá đường](https://oj.vnoi.info/problem/qhroad)| | [code](https://ideone.com/hdP1qo)
+[Yugi-Oh](https://oj.vnoi.info/problem/yugi)| | [code](https://ideone.com/DJzptA)
+[A. Knight Tournament](https://codeforces.com/problemset/problem/356/A)| | [code](https://ideone.com/Y5D4bc)
+[CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)| | [code](https://ideone.com/fDfpKC)
+[G. Path Queries](https://codeforces.com/contest/1213/problem/G)| | [code](https://ideone.com/GbDzIa)
+[Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| | [code](https://ideone.com/KBrOCW)
 #### Small to Large: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -531,6 +532,7 @@ Problems| Tags| Editorial
 [VM 14 Bài 18 - Cây khung](https://oj.vnoi.info/problem/vmst)| |
 [Riêng một góc trời](https://nbk.homes/problem/cwdrmgt)
 [G. MinOr Tree](https://codeforces.com/problemset/problem/1624/G)| | 
+
 ### Chương 4: Đường đi ngắn nhất
 #### Tài liệu:
 - [Breadth-first search](https://cp-algorithms.com/graph/breadth-first-search.html) (cp-algorithms)
