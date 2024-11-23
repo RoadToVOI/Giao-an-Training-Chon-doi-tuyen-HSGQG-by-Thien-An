@@ -507,7 +507,7 @@ Problems| Tags| Editorial
 #### DSU: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Quản lý vùng BALLAS](https://lqdoj.edu.vn/problem/connect)| | [code](https://ideone.com/gEAqFb)
+[Quản lý vùng BALLAS](https://lqdoj.edu.vn/problem/connect)| | [code](https://ideone.com/mWJ4L4)
 [Phá đường](https://oj.vnoi.info/problem/qhroad)| | [code](https://ideone.com/hdP1qo)
 [Yugi-Oh](https://oj.vnoi.info/problem/yugi)| | [code](https://ideone.com/qcYpZD)
 [A. Knight Tournament](https://codeforces.com/problemset/problem/356/A)| | [code](https://ideone.com/Y5D4bc)
