@@ -510,10 +510,12 @@ Problems| Tags| Editorial
 [Quản lý vùng BALLAS](https://lqdoj.edu.vn/problem/connect)| | [code](https://ideone.com/mWJ4L4)
 [Phá đường](https://oj.vnoi.info/problem/qhroad)| | [code](https://ideone.com/hdP1qo)
 [Yugi-Oh](https://oj.vnoi.info/problem/yugi)| | [code](https://ideone.com/qcYpZD)
+[D. Igor In the Museum](https://codeforces.com/problemset/problem/598/D)| |
 [A. Knight Tournament](https://codeforces.com/problemset/problem/356/A)| | [code](https://ideone.com/Y5D4bc)
 [CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)| | [code](https://ideone.com/fDfpKC)
 [G. Path Queries](https://codeforces.com/contest/1213/problem/G)| | [code](https://ideone.com/GbDzIa)
 [Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| | [code](https://ideone.com/TVQLHL)
+[D. Mr. Kitayuta's Colorful Graph](https://codeforces.com/contest/506/problem/D)
 #### Small to Large: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -528,10 +530,13 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Cây khung nhỏ nhất (HEAP)](https://oj.vnoi.info/problem/qbmst)| |
-[Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)| |
 [VM 14 Bài 18 - Cây khung](https://oj.vnoi.info/problem/vmst)| |
-[Riêng một góc trời](https://nbk.homes/problem/cwdrmgt)
+[Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)| |
+[B. 0-1 MST](https://codeforces.com/problemset/problem/1242/B)| |
+[Riêng một góc trời](https://nbk.homes/problem/cwdrmgt)| |
 [G. MinOr Tree](https://codeforces.com/problemset/problem/1624/G)| | 
+[E. Opening Portals](https://codeforces.com/contest/196/problem/E)| | 
+[D. Edges in MST](https://codeforces.com/contest/160/problem/D)| |
 
 ### Chương 4: Đường đi ngắn nhất
 #### Tài liệu:
@@ -600,6 +605,7 @@ Problems| Tags| Editorial
 [Tree Distances I](https://cses.fi/problemset/task/1132)| |
 [Dịch vụ chăm sóc khách hàng](https://lqdoj.edu.vn/problem/service)| |
 [F - Exactly K Steps](https://atcoder.jp/contests/abc267/tasks/abc267_f)| |
+[C. Civilization](https://codeforces.com/contest/455/problem/C)| |
 
 ### Chương 2: LCA
 #### Tài liệu: 
