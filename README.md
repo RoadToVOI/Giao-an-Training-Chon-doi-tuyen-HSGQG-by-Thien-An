@@ -519,13 +519,14 @@ Problems| Tags| Editorial
 #### Small to Large: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Color query](https://oj.vnoi.info/problem/colquery)| |
-[Distinct Colors](https://cses.fi/problemset/task/1139)| |
-[E. Lomsat gelral](https://codeforces.com/contest/600/problem/E)| |
+[Color query](https://oj.vnoi.info/problem/colquery)| | [code](https://ideone.com/NBUwUf)
+[Distinct Colors](https://cses.fi/problemset/task/1139)| | [code](https://ideone.com/dc4zhG)
+[E. Lomsat gelral](https://codeforces.com/contest/600/problem/E)| | [code](https://ideone.com/1H5pfD)
 
 ### Chương 3: Cây khung nhỏ nhất (MST)
 #### Tài liệu: 
 - [Minimum spanning tree - Kruskal's algorithm](https://cp-algorithms.com/graph/mst_kruskal.html) (cp-algorithms)
+- [Second Best Minimum Spanning Tree](https://cp-algorithms.com/graph/second_best_mst.html) (cp-algorithms)
 #### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -535,8 +536,10 @@ Problems| Tags| Editorial
 [B. 0-1 MST](https://codeforces.com/problemset/problem/1242/B)| |
 [Riêng một góc trời](https://nbk.homes/problem/cwdrmgt)| |
 [G. MinOr Tree](https://codeforces.com/problemset/problem/1624/G)| | 
-[E. Opening Portals](https://codeforces.com/contest/196/problem/E)| | 
+[E. Opening Portals](https://codeforces.com/contest/196/problem/E)| |
 [D. Edges in MST](https://codeforces.com/contest/160/problem/D)| |
+[VOI 11 Bài 6 - Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)| |
+[E. Minimum spanning tree for each edge](https://codeforces.com/problemset/problem/609/E)| | 
 
 ### Chương 4: Đường đi ngắn nhất
 #### Tài liệu:
@@ -620,8 +623,6 @@ Problems| Tags| Editorial
 [Lubenica](https://oj.vnoi.info/problem/lubenica)| |
 [Counting Paths](https://cses.fi/problemset/task/1136)| |
 [Cây Nhi](https://lqdoj.edu.vn/problem/tkpc07tree)| | 
-[VOI 11 Bài 6 - Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)| |
-[E. Minimum spanning tree for each edge](https://codeforces.com/problemset/problem/609/E)| | 
 
 ### Chương 3: Quy hoạch động trên Cây (DP on Trees)
 #### Tài liệu: 
