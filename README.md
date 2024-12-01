@@ -526,6 +526,7 @@ Problems| Tags| Editorial
 ### Chương 3: Cây khung nhỏ nhất (MST)
 #### Tài liệu: 
 - [Minimum spanning tree - Kruskal's algorithm](https://cp-algorithms.com/graph/mst_kruskal.html) (cp-algorithms)
+- [Minimum spanning tree - Kruskal with Disjoint Set Union](https://cp-algorithms.com/graph/mst_kruskal_with_dsu.html) (cp-algorithms)
 - [Second Best Minimum Spanning Tree](https://cp-algorithms.com/graph/second_best_mst.html) (cp-algorithms)
 #### Bài tập:
 |Problems |Tags |Editorial
