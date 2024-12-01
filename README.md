@@ -519,7 +519,7 @@ Problems| Tags| Editorial
 #### Small to Large: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Color query](https://oj.vnoi.info/problem/colquery)| | [code](https://ideone.com/NBUwUf)
+[Color query](https://oj.vnoi.info/problem/colquery)| | [code](https://ideone.com/3dN5IF)
 [Distinct Colors](https://cses.fi/problemset/task/1139)| | [code](https://ideone.com/dc4zhG)
 [E. Lomsat gelral](https://codeforces.com/contest/600/problem/E)| | [code](https://ideone.com/1H5pfD)
 
@@ -530,7 +530,7 @@ Problems| Tags| Editorial
 #### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Cây khung nhỏ nhất (HEAP)](https://oj.vnoi.info/problem/qbmst)| |
+[Cây khung nhỏ nhất (HEAP)](https://oj.vnoi.info/problem/qbmst)| | [code](https://ideone.com/ehPJU0)
 [VM 14 Bài 18 - Cây khung](https://oj.vnoi.info/problem/vmst)| |
 [Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)| |
 [B. 0-1 MST](https://codeforces.com/problemset/problem/1242/B)| |
