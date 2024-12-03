@@ -532,9 +532,8 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Cây khung nhỏ nhất (HEAP)](https://oj.vnoi.info/problem/qbmst)| | [code](https://ideone.com/ehPJU0)
-[VM 14 Bài 18 - Cây khung](https://oj.vnoi.info/problem/vmst)| |
-[Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)| |
-[B. 0-1 MST](https://codeforces.com/problemset/problem/1242/B)| |
+[Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)| | [code](https://ideone.com/OHcnWv)
+[B. 0-1 MST](https://codeforces.com/problemset/problem/1242/B)| | [code](https://ideone.com/HJoIWF)
 [Riêng một góc trời](https://nbk.homes/problem/cwdrmgt)| |
 [G. MinOr Tree](https://codeforces.com/problemset/problem/1624/G)| | 
 [E. Opening Portals](https://codeforces.com/contest/196/problem/E)| |
