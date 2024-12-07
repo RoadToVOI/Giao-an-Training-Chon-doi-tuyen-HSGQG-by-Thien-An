@@ -523,29 +523,11 @@ Problems| Tags| Editorial
 [Distinct Colors](https://cses.fi/problemset/task/1139)| | [code](https://ideone.com/dc4zhG)
 [E. Lomsat gelral](https://codeforces.com/contest/600/problem/E)| | [code](https://ideone.com/1H5pfD)
 
-### Chương 3: Cây khung nhỏ nhất (MST)
-#### Tài liệu: 
-- [Minimum spanning tree - Kruskal's algorithm](https://cp-algorithms.com/graph/mst_kruskal.html) (cp-algorithms)
-- [Minimum spanning tree - Kruskal with Disjoint Set Union](https://cp-algorithms.com/graph/mst_kruskal_with_dsu.html) (cp-algorithms)
-- [Second Best Minimum Spanning Tree](https://cp-algorithms.com/graph/second_best_mst.html) (cp-algorithms)
-#### Bài tập:
-|Problems |Tags |Editorial
-|--|:--:|:--:
-[Cây khung nhỏ nhất (HEAP)](https://oj.vnoi.info/problem/qbmst)| | [code](https://ideone.com/ehPJU0)
-[Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)| | [code](https://ideone.com/OHcnWv)
-[B. 0-1 MST](https://codeforces.com/problemset/problem/1242/B)| | [code](https://ideone.com/HJoIWF)
-[Riêng một góc trời](https://nbk.homes/problem/cwdrmgt)| |
-[G. MinOr Tree](https://codeforces.com/problemset/problem/1624/G)| | 
-[E. Opening Portals](https://codeforces.com/contest/196/problem/E)| |
-[D. Edges in MST](https://codeforces.com/contest/160/problem/D)| |
-[VOI 11 Bài 6 - Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)| |
-[E. Minimum spanning tree for each edge](https://codeforces.com/problemset/problem/609/E)| | 
-
-### Chương 4: Đường đi ngắn nhất
+### Chương 3: Đường đi ngắn nhất
 #### Tài liệu:
 - [Breadth-first search](https://cp-algorithms.com/graph/breadth-first-search.html) (cp-algorithms)
 - [Dijkstra on sparse graphs](https://cp-algorithms.com/graph/dijkstra_sparse.html) (cp-algorithms)
-- [0-1 BFS](https://cp-algorithms.com/graph/01_bfs.html)
+- [0-1 BFS](https://cp-algorithms.com/graph/01_bfs.html) (cp-algorithms)
 #### Bài tập: 
 #### BFS: 
 |Problems |Tags |Editorial
@@ -570,14 +552,14 @@ Problems| Tags| Editorial
 |--|:--:|:--:
 [E - Bishop 2](https://atcoder.jp/contests/abc246/tasks/abc246_e)| |
 [B. Labyrinth](https://codeforces.com/contest/1063/problem/B)| |
-### Chương 5: DAG
+### Chương 4: DAG
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)| |
 [Game Routes](https://cses.fi/problemset/task/1681)| |
 
-### Chương 6: Cây DFS
+### Chương 5: Cây DFS
 #### Tài liệu: 
 - [Cây DFS (Depth-First Search Tree) và ứng dụng](https://wiki.vnoi.info/algo/graph-theory/Depth-First-Search-Tree.md) (VNOI Wiki)
 #### Bài tập: 
@@ -598,19 +580,26 @@ Problems| Tags| Editorial
 [Truyền tin](https://oj.vnoi.info/problem/message)| Nén thành phần liên thông mạnh |
 [Coin Collector](https://cses.fi/problemset/task/1686)| |
 
-## Phần VII: Cây  
-### Chương 1: Đường kính của cây
+### Chương 6: Cây khung nhỏ nhất (MST)
 #### Tài liệu: 
-- [[Tutorial] Diameter of a tree and its applications](https://codeforces.com/blog/entry/101271)
+- [Minimum spanning tree - Kruskal's algorithm](https://cp-algorithms.com/graph/mst_kruskal.html) (cp-algorithms)
+- [Minimum spanning tree - Kruskal with Disjoint Set Union](https://cp-algorithms.com/graph/mst_kruskal_with_dsu.html) (cp-algorithms)
+- [Second Best Minimum Spanning Tree](https://cp-algorithms.com/graph/second_best_mst.html) (cp-algorithms)
 #### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Tree Distances I](https://cses.fi/problemset/task/1132)| |
-[Dịch vụ chăm sóc khách hàng](https://lqdoj.edu.vn/problem/service)| |
-[F - Exactly K Steps](https://atcoder.jp/contests/abc267/tasks/abc267_f)| |
-[C. Civilization](https://codeforces.com/contest/455/problem/C)| |
+[Cây khung nhỏ nhất (HEAP)](https://oj.vnoi.info/problem/qbmst)| | [code](https://ideone.com/uBtbap)
+[Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)| | [code](https://ideone.com/LnNLLi)
+[B. 0-1 MST](https://codeforces.com/problemset/problem/1242/B)| | [code](https://ideone.com/FKYYal)
+[Riêng một góc trời](https://nbk.homes/problem/cwdrmgt)| | [code](https://ideone.com/7sZGz5)
+[G. MinOr Tree](https://codeforces.com/problemset/problem/1624/G)| | [code](https://ideone.com/5dGqN1)
+[E. Opening Portals](https://codeforces.com/contest/196/problem/E)| |
+[D. Edges in MST](https://codeforces.com/contest/160/problem/D)| |
+[VOI 11 Bài 6 - Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)| |
+[E. Minimum spanning tree for each edge](https://codeforces.com/problemset/problem/609/E)| | 
 
-### Chương 2: LCA
+## Phần VII: Cây  
+### Chương 1: LCA
 #### Tài liệu: 
 - [Lowest Common Ancestor - Binary Lifting](https://cp-algorithms.com/graph/lca_binary_lifting.html) (cp-algorithms)
 - [Lowest Common Ancestor (LCA) - Binary Lifting](https://wiki.vnoi.info/vi/algo/data-structures/lca-binlift) (VNOI Wiki)
@@ -623,6 +612,17 @@ Problems| Tags| Editorial
 [Lubenica](https://oj.vnoi.info/problem/lubenica)| |
 [Counting Paths](https://cses.fi/problemset/task/1136)| |
 [Cây Nhi](https://lqdoj.edu.vn/problem/tkpc07tree)| | 
+
+### Chương 2: Đường kính của cây
+#### Tài liệu: 
+- [[Tutorial] Diameter of a tree and its applications](https://codeforces.com/blog/entry/101271) (blog Codeforces)
+#### Bài tập:
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Tree Distances I](https://cses.fi/problemset/task/1132)| |
+[Dịch vụ chăm sóc khách hàng](https://lqdoj.edu.vn/problem/service)| |
+[F - Exactly K Steps](https://atcoder.jp/contests/abc267/tasks/abc267_f)| |
+[C. Civilization](https://codeforces.com/contest/455/problem/C)| |
 
 ### Chương 3: Quy hoạch động trên Cây (DP on Trees)
 #### Tài liệu: 
