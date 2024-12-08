@@ -532,9 +532,11 @@ Problems| Tags| Editorial
 #### BFS: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
+[Message Route](https://cses.fi/problemset/task/1667)| |
 [Labyrinth](https://cses.fi/problemset/task/1193)| |
-[Mountain Walking](https://oj.vnoi.info/problem/qbbishop)| |
+[VOI 06 Bài 2 - Quân tượng](https://oj.vnoi.info/problem/qbbishop)| |
 [Swap Game](https://cses.fi/problemset/task/1670/)| |
+[Graph Girth](https://cses.fi/problemset/task/1707/)| |
 [Monsters](https://cses.fi/problemset/task/1194)| Multi-source BFS| 
 #### Dijkstra: 
 |Problems |Tags |Editorial
