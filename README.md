@@ -532,9 +532,9 @@ Problems| Tags| Editorial
 #### BFS: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Message Route](https://cses.fi/problemset/task/1667)| |
-[Labyrinth](https://cses.fi/problemset/task/1193)| |
-[VOI 06 Bài 2 - Quân tượng](https://oj.vnoi.info/problem/qbbishop)| |
+[Message Route](https://cses.fi/problemset/task/1667)| | [code](https://ideone.com/VbCmLh)
+[Labyrinth](https://cses.fi/problemset/task/1193)| | [code](https://ideone.com/OwwpHG)
+[VOI 06 Bài 2 - Quân tượng](https://oj.vnoi.info/problem/qbbishop)| | [code](https://ideone.com/bdtIDf)
 [Swap Game](https://cses.fi/problemset/task/1670/)| |
 [Graph Girth](https://cses.fi/problemset/task/1707/)| |
 [Monsters](https://cses.fi/problemset/task/1194)| Multi-source BFS| 
