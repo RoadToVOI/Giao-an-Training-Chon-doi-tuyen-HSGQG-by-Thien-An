@@ -294,6 +294,7 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
+[Bộ ba cao thủ](https://oj.vnoi.info/problem/nktrio)| |
 [Beautiful Subgrids](https://cses.fi/problemset/task/2137)| | [code](https://ideone.com/2FDKjf)
 [School Excursion](https://cses.fi/problemset/task/1706)| | [code](https://ideone.com/9GuMrO)
 [Reachable Nodes](https://cses.fi/problemset/task/2138)| | [code](https://ideone.com/Jw0oIo)
@@ -494,9 +495,12 @@ Problems| Tags| Editorial
 |--|:--:|:--:
 [Counting Rooms](https://cses.fi/problemset/task/1192)| | [code](https://ideone.com/NVHrU5)
 [Quảng cáo](https://oj.vnoi.info/problem/ads)| | [code](https://ideone.com/eLuszV) 
+[Biến đổi số](https://oj.vnoi.info/problem/number)| |
+[ICEFROG](https://oj.vnoi.info/problem/vukvn)| |
 [Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)| | [code](https://ideone.com/ZEl5nM)
 [Mountain Walking](https://oj.vnoi.info/problem/mtwalk)| | [code](https://ideone.com/79mZKJ)
 [Building Teams](https://cses.fi/problemset/task/1668)| | [code](https://ideone.com/BR3SxI)
+[CHỌN ROBOT](https://oj.vnoi.info/problem/pvoi14_2)| |
 [Robot UpRace](https://oj.vnoi.info/problem/codetour24_f_e)| | [code](https://ideone.com/Zg91Rr)
 
 ### Chương 2: DSU x Small to Large
@@ -534,6 +538,8 @@ Problems| Tags| Editorial
 |--|:--:|:--:
 [Message Route](https://cses.fi/problemset/task/1667)| | [code](https://ideone.com/VbCmLh)
 [Labyrinth](https://cses.fi/problemset/task/1193)| | [code](https://ideone.com/OwwpHG)
+[E. Shortest Path](https://codeforces.com/contest/59/problem/E)| |
+[Các đại lý](https://oj.vnoi.info/problem/qbagents)| |
 [VOI 06 Bài 2 - Quân tượng](https://oj.vnoi.info/problem/qbbishop)| | [code](https://ideone.com/bdtIDf)
 [Swap Game](https://cses.fi/problemset/task/1670/)| |
 [Graph Girth](https://cses.fi/problemset/task/1707/)| |
@@ -542,8 +548,8 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Shortest Routes I](https://cses.fi/problemset/task/1671)| |
-[Flight Routes](https://cses.fi/problemset/task/1196)| | 
 [VM 08 Bài 13 - Bin Laden](https://oj.vnoi.info/problem/binladen)| |
+[Flight Routes](https://cses.fi/problemset/task/1196)| | 
 [Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)| |
 [Investigation](https://cses.fi/problemset/task/1202)| |
 [Visiting Cities](https://cses.fi/problemset/task/1203)| |
@@ -553,6 +559,7 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [E - Bishop 2](https://atcoder.jp/contests/abc246/tasks/abc246_e)| |
+[D. Okabe and City](https://codeforces.com/contest/821/problem/D)| |
 [B. Labyrinth](https://codeforces.com/contest/1063/problem/B)| |
 ### Chương 4: DAG
 #### Bài tập: 
@@ -569,6 +576,7 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Round Trip](https://cses.fi/problemset/task/1669)| Tìm chu trình |
+[ĐUỔI BẮT](https://oj.vnoi.info/problem/thtrace)| |
 [ICPC 2023 vòng Quốc gia - J: Jumbled Graph](https://oj.vnoi.info/problem/icpc23_national_j)| DP - cây DFS| 
 [Tìm khớp và cầu (Cơ bản)](https://oj.vnoi.info/problem/graph_)| Khớp và cầu |
 [Sửa cầu](https://oj.vnoi.info/problem/kbuild)| |
@@ -580,6 +588,7 @@ Problems| Tags| Editorial
 [Round Trip II](https://cses.fi/problemset/task/1678)| Tìm chu trình|
 [Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)| Thành phần liên thông mạnh |
 [Truyền tin](https://oj.vnoi.info/problem/message)| Nén thành phần liên thông mạnh |
+[VOI 06 Bài 5 - Mạng máy tính](https://oj.vnoi.info/problem/nkonearc)
 [Coin Collector](https://cses.fi/problemset/task/1686)| |
 
 ### Chương 6: Cây khung nhỏ nhất (MST)
@@ -646,7 +655,7 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Subtree Queries](https://cses.fi/problemset/task/1137)| | 
-
+[D. Water Tree](https://codeforces.com/contest/343/problem/D)| |
 ## Phần VIII: Thuật toán Xâu (String Algorithms)
 ### Chương 1: Hashing
 #### Tài liệu: 
