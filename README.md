@@ -530,6 +530,7 @@ Problems| Tags| Editorial
 ### Chương 3: Đường đi ngắn nhất
 #### Tài liệu:
 - [Breadth-first search](https://cp-algorithms.com/graph/breadth-first-search.html) (cp-algorithms)
+- [Dijkstra Algorithm](https://cp-algorithms.com/graph/dijkstra.html) (cp-algorithms)
 - [Dijkstra on sparse graphs](https://cp-algorithms.com/graph/dijkstra_sparse.html) (cp-algorithms)
 - [0-1 BFS](https://cp-algorithms.com/graph/01_bfs.html) (cp-algorithms)
 #### Bài tập: 
