@@ -562,10 +562,15 @@ Problems| Tags| Editorial
 [E - Bishop 2](https://atcoder.jp/contests/abc246/tasks/abc246_e)| |
 [D. Okabe and City](https://codeforces.com/contest/821/problem/D)| |
 [B. Labyrinth](https://codeforces.com/contest/1063/problem/B)| |
+
 ### Chương 4: DAG
+#### Tài liệu: 
+- [Topological Sorting](https://cp-algorithms.com/graph/topological-sort.html) (cp-algorithms)
+- [Topological Sort](https://usaco.guide/gold/toposort?lang=cpp) (USACO Guide)
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
+[Course Schedule](https://cses.fi/problemset/task/1679)
 [G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)| |
 [Game Routes](https://cses.fi/problemset/task/1681)| |
 
@@ -588,7 +593,8 @@ Problems| Tags| Editorial
 |--|:--:|:--:
 [Round Trip II](https://cses.fi/problemset/task/1678)| Tìm chu trình|
 [Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)| Thành phần liên thông mạnh |
-[Truyền tin](https://oj.vnoi.info/problem/message)| Nén thành phần liên thông mạnh |
+[C. Checkposts](https://codeforces.com/problemset/problem/427/C)|Nén thành phần liên thông mạnh|
+[Truyền tin](https://oj.vnoi.info/problem/message)| |
 [VOI 06 Bài 5 - Mạng máy tính](https://oj.vnoi.info/problem/nkonearc)
 [Coin Collector](https://cses.fi/problemset/task/1686)| |
 
