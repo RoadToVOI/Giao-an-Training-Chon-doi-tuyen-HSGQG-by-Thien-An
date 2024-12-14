@@ -655,14 +655,31 @@ Problems| Tags| Editorial
 [Another Tree Problem](https://oj.vnoi.info/problem/mtree)| |
 [Tree Distances II](https://cses.fi/problemset/task/1133)| DP Reroot |
 
-### Chương 4: Euler Tour
+### Chương 4: Euler Tour x Sack 
 #### Tài liệu: 
 - [Đường đi Euler trên cây](https://wiki.vnoi.info/vi/algo/graph-theory/euler-tour-on-tree) (VNOI Wiki)
+- [[Tutorial] Sack (dsu on tree)](https://codeforces.com/blog/entry/44351) (blog Codeforces)
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Subtree Queries](https://cses.fi/problemset/task/1137)| | 
 [D. Water Tree](https://codeforces.com/contest/343/problem/D)| |
+
+### Chương 5: Heavy-Light Decomposition (HLD)
+#### Tài liệu: 
+- [Heavy-light decomposition](https://cp-algorithms.com/graph/hld.html) (cp-algorithms)
+- [Heavy-Light Decomposition (HLD)](https://wiki.vnoi.info/vi/algo/data-structures/heavy-light-decomposition) (VNOI Wiki)
+- #### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+
+### Chương 6: Centroid Decomposition
+#### Tài liệu: 
+- [Thuật toán phân tách trọng tâm - Centroid decomposition](https://wiki.vnoi.info/algo/graph-theory/centroid-decomposition.md) (VNOI Wiki)
+#### Bài tập:
+|Problems |Tags |Editorial
+|--|:--:|:--:
+
 ## Phần VIII: Thuật toán Xâu (String Algorithms)
 ### Chương 1: Hashing
 #### Tài liệu: 
