@@ -538,13 +538,13 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Message Route](https://cses.fi/problemset/task/1667)| | [code](https://ideone.com/VbCmLh)
-[Labyrinth](https://cses.fi/problemset/task/1193)| | [code](https://ideone.com/OwwpHG)
-[E. Shortest Path](https://codeforces.com/contest/59/problem/E)| |
-[Các đại lý](https://oj.vnoi.info/problem/qbagents)| |
+[Labyrinth](https://cses.fi/problemset/task/1193)| | [code](https://ideone.com/w60IZz)
 [VOI 06 Bài 2 - Quân tượng](https://oj.vnoi.info/problem/qbbishop)| | [code](https://ideone.com/bdtIDf)
-[Swap Game](https://cses.fi/problemset/task/1670/)| |
-[Graph Girth](https://cses.fi/problemset/task/1707/)| |
-[Monsters](https://cses.fi/problemset/task/1194)| Multi-source BFS| 
+[E. Shortest Path](https://codeforces.com/contest/59/problem/E)| | [code](https://ideone.com/iqS3Uj)
+[Các đại lý](https://oj.vnoi.info/problem/qbagents)| | [code](https://ideone.com/HmCpQG)
+[Graph Girth](https://cses.fi/problemset/task/1707/)| | [code](https://ideone.com/1LgoDh)
+[Swap Game](https://cses.fi/problemset/task/1670/)| | [code](https://ideone.com/sXHqCN)
+[Monsters](https://cses.fi/problemset/task/1194)| Multi-source BFS| [code](https://ideone.com/AacRk9)
 #### Dijkstra: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
