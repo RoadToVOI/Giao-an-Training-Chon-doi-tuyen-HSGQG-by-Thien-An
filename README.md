@@ -527,7 +527,18 @@ Problems| Tags| Editorial
 [Distinct Colors](https://cses.fi/problemset/task/1139)| | [code](https://ideone.com/dc4zhG)
 [E. Lomsat gelral](https://codeforces.com/contest/600/problem/E)| | [code](https://ideone.com/1H5pfD)
 
-### Chương 3: Đường đi ngắn nhất
+### Chương 3: DAG
+#### Tài liệu: 
+- [Topological Sorting](https://cp-algorithms.com/graph/topological-sort.html) (cp-algorithms)
+- [Topological Sort](https://usaco.guide/gold/toposort?lang=cpp) (USACO Guide)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Course Schedule](https://cses.fi/problemset/task/1679)| | [code](https://ideone.com/ONY4OY)
+[G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)| | [code](https://ideone.com/gbdX7h)
+[Game Routes](https://cses.fi/problemset/task/1681)| | [code](https://ideone.com/cVERK1)
+
+### Chương 4: Đường đi ngắn nhất
 #### Tài liệu:
 - [Breadth-first search](https://cp-algorithms.com/graph/breadth-first-search.html) (cp-algorithms)
 - [Dijkstra Algorithm](https://cp-algorithms.com/graph/dijkstra.html) (cp-algorithms)
@@ -562,17 +573,6 @@ Problems| Tags| Editorial
 [E - Bishop 2](https://atcoder.jp/contests/abc246/tasks/abc246_e)| |
 [D. Okabe and City](https://codeforces.com/contest/821/problem/D)| |
 [B. Labyrinth](https://codeforces.com/contest/1063/problem/B)| |
-
-### Chương 4: DAG
-#### Tài liệu: 
-- [Topological Sorting](https://cp-algorithms.com/graph/topological-sort.html) (cp-algorithms)
-- [Topological Sort](https://usaco.guide/gold/toposort?lang=cpp) (USACO Guide)
-#### Bài tập: 
-|Problems |Tags |Editorial
-|--|:--:|:--:
-[Course Schedule](https://cses.fi/problemset/task/1679)
-[G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)| |
-[Game Routes](https://cses.fi/problemset/task/1681)| |
 
 ### Chương 5: Cây DFS
 #### Tài liệu: 
