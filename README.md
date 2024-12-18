@@ -559,10 +559,10 @@ Problems| Tags| Editorial
 #### Dijkstra: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Shortest Routes I](https://cses.fi/problemset/task/1671)| |
-[VM 08 Bài 13 - Bin Laden](https://oj.vnoi.info/problem/binladen)| |
-[Flight Routes](https://cses.fi/problemset/task/1196)| | 
-[Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)| |
+[Shortest Routes I](https://cses.fi/problemset/task/1671)| | [code](https://ideone.com/MIyJd6)
+[VM 08 Bài 13 - Bin Laden](https://oj.vnoi.info/problem/binladen)| | [code](https://ideone.com/0wBtM6)
+[Flight Routes](https://cses.fi/problemset/task/1196)| | [code](https://ideone.com/sgzawB)
+[Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)| | [code](https://ideone.com/hGAxbe)
 [VOI 17 Bài 4 - Tàu điện ngầm](https://oj.vnoi.info/problem/voi17_metro)| | 
 [ELEVATOR II](https://oj.vnoi.info/problem/mele2)| |
 [Investigation](https://cses.fi/problemset/task/1202)| Dijkstra's DAG|
