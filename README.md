@@ -563,10 +563,13 @@ Problems| Tags| Editorial
 [VM 08 Bài 13 - Bin Laden](https://oj.vnoi.info/problem/binladen)| |
 [Flight Routes](https://cses.fi/problemset/task/1196)| | 
 [Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)| |
-[Investigation](https://cses.fi/problemset/task/1202)| |
-[Visiting Cities](https://cses.fi/problemset/task/1203)| |
 [VOI 17 Bài 4 - Tàu điện ngầm](https://oj.vnoi.info/problem/voi17_metro)| | 
 [ELEVATOR II](https://oj.vnoi.info/problem/mele2)| |
+[Investigation](https://cses.fi/problemset/task/1202)| Dijkstra's DAG|
+[Visiting Cities](https://cses.fi/problemset/task/1203)| |
+[E. President and Roads](https://codeforces.com/contest/567/problem/E)| |
+[B. Jzzhu and Cities](https://codeforces.com/problemset/problem/449/B)| |
+[[VOI Training] Vé tàu miễn phí](https://nbk.homes/problem/voi23ticket)| |
 #### 0-1 BFS:
 |Problems |Tags |Editorial
 |--|:--:|:--:
