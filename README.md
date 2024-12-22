@@ -563,9 +563,9 @@ Problems| Tags| Editorial
 [VM 08 Bài 13 - Bin Laden](https://oj.vnoi.info/problem/binladen)| | [code](https://ideone.com/0wBtM6)
 [Flight Routes](https://cses.fi/problemset/task/1196)| | [code](https://ideone.com/sgzawB)
 [Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)| | [code](https://ideone.com/hGAxbe)
-[VOI 17 Bài 4 - Tàu điện ngầm](https://oj.vnoi.info/problem/voi17_metro)| | [code](https://ideone.com/9xEYMW)
+[VOI 17 Bài 4 - Tàu điện ngầm](https://oj.vnoi.info/problem/voi17_metro)| | [code](https://ideone.com/TDnBFB)
 [ELEVATOR II](https://oj.vnoi.info/problem/mele2)| | [code](https://ideone.com/lcDeK4)
-[Investigation](https://cses.fi/problemset/task/1202)| Dijkstra's DAG|
+[Investigation](https://cses.fi/problemset/task/1202)| Đồ thị đường đi ngắn nhất|
 [Visiting Cities](https://cses.fi/problemset/task/1203)| |
 [E. President and Roads](https://codeforces.com/contest/567/problem/E)| |
 [B. Jzzhu and Cities](https://codeforces.com/problemset/problem/449/B)| |
