@@ -565,9 +565,9 @@ Problems| Tags| Editorial
 [Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)| | [code](https://ideone.com/hGAxbe)
 [VOI 17 Bài 4 - Tàu điện ngầm](https://oj.vnoi.info/problem/voi17_metro)| | [code](https://ideone.com/TDnBFB)
 [ELEVATOR II](https://oj.vnoi.info/problem/mele2)| | [code](https://ideone.com/lcDeK4)
-[Investigation](https://cses.fi/problemset/task/1202)| Đồ thị đường đi ngắn nhất|
-[Visiting Cities](https://cses.fi/problemset/task/1203)| |
-[E. President and Roads](https://codeforces.com/contest/567/problem/E)| |
+[Investigation](https://cses.fi/problemset/task/1202)| Đồ thị đường đi ngắn nhất| [code](https://ideone.com/ALnn0r)
+[Visiting Cities](https://cses.fi/problemset/task/1203)| | [code](https://ideone.com/oJFHVH)
+[E. President and Roads](https://codeforces.com/contest/567/problem/E)| | [code](https://ideone.com/R2c1c9)
 [B. Jzzhu and Cities](https://codeforces.com/problemset/problem/449/B)| |
 [[VOI Training] Vé tàu miễn phí](https://nbk.homes/problem/voi23ticket)| |
 #### 0-1 BFS:
