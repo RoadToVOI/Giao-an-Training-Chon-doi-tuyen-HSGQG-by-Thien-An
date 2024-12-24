@@ -568,8 +568,8 @@ Problems| Tags| Editorial
 [Investigation](https://cses.fi/problemset/task/1202)| Đồ thị đường đi ngắn nhất| [code](https://ideone.com/ALnn0r)
 [Visiting Cities](https://cses.fi/problemset/task/1203)| | [code](https://ideone.com/oJFHVH)
 [E. President and Roads](https://codeforces.com/contest/567/problem/E)| | [code](https://ideone.com/R2c1c9)
-[B. Jzzhu and Cities](https://codeforces.com/problemset/problem/449/B)| |
-[[VOI Training] Vé tàu miễn phí](https://nbk.homes/problem/voi23ticket)| |
+[B. Jzzhu and Cities](https://codeforces.com/problemset/problem/449/B)| | [code](https://ideone.com/qRzQ3b)
+[[VOI Training] Vé tàu miễn phí](https://nbk.homes/problem/voi23ticket)| | [code](https://ideone.com/5ubm9e)
 #### 0-1 BFS:
 |Problems |Tags |Editorial
 |--|:--:|:--:
