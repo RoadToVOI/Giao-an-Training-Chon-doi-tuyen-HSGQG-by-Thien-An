@@ -553,6 +553,7 @@ Problems| Tags| Editorial
 [VOI 06 Bài 2 - Quân tượng](https://oj.vnoi.info/problem/qbbishop)| | [code](https://ideone.com/bdtIDf)
 [E. Shortest Path](https://codeforces.com/contest/59/problem/E)| | [code](https://ideone.com/iqS3Uj)
 [Các đại lý](https://oj.vnoi.info/problem/qbagents)| | [code](https://ideone.com/HmCpQG)
+[D. Olya and Energy Drinks](https://codeforces.com/problemset/problem/877/D)| |
 [Graph Girth](https://cses.fi/problemset/task/1707/)| | [code](https://ideone.com/1LgoDh)
 [Swap Game](https://cses.fi/problemset/task/1670/)| | [code](https://ideone.com/sXHqCN)
 [Monsters](https://cses.fi/problemset/task/1194)| Multi-source BFS| [code](https://ideone.com/AacRk9)
@@ -574,20 +575,22 @@ Problems| Tags| Editorial
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [E - Bishop 2](https://atcoder.jp/contests/abc246/tasks/abc246_e)| |
-[D. Okabe and City](https://codeforces.com/contest/821/problem/D)| |
 [B. Labyrinth](https://codeforces.com/contest/1063/problem/B)| |
 
 ### Chương 5: Cây DFS
 #### Tài liệu: 
 - [Cây DFS (Depth-First Search Tree) và ứng dụng](https://wiki.vnoi.info/algo/graph-theory/Depth-First-Search-Tree.md) (VNOI Wiki)
+- [Finding bridges in a graph in $O(N+M)$](https://cp-algorithms.com/graph/bridge-searching.html) (cp-algorithms)
+- [Finding articulation points in a graph in $O(N+M)$](https://cp-algorithms.com/graph/cutpoints.html) (cp-algorithms)
 #### Bài tập: 
 #### Đồ thị vô hướng:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Round Trip](https://cses.fi/problemset/task/1669)| Tìm chu trình |
-[ĐUỔI BẮT](https://oj.vnoi.info/problem/thtrace)| |
 [ICPC 2023 vòng Quốc gia - J: Jumbled Graph](https://oj.vnoi.info/problem/icpc23_national_j)| DP - cây DFS| 
 [Tìm khớp và cầu (Cơ bản)](https://oj.vnoi.info/problem/graph_)| Khớp và cầu |
+[VM 10 Bài 01 - Điều kiện thời tiết](https://oj.vnoi.info/problem/weather)| |
+[Thành phố trọng yếu](https://oj.vnoi.info/problem/critical)| |
 [Sửa cầu](https://oj.vnoi.info/problem/kbuild)| |
 [VOI 15 Bài 3 - Kế hoạch cải tổ](https://oj.vnoi.info/problem/reform)| |
 [Police](https://oj.vnoi.info/problem/nkpolice)| |
