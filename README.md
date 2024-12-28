@@ -574,19 +574,20 @@ Problems| Tags| Editorial
 #### 0-1 BFS:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[E - Bishop 2](https://atcoder.jp/contests/abc246/tasks/abc246_e)| |
-[B. Labyrinth](https://codeforces.com/contest/1063/problem/B)| |
+[E - Bishop 2](https://atcoder.jp/contests/abc246/tasks/abc246_e)| | [code](https://ideone.com/Lj4jPT)
+[B. Labyrinth](https://codeforces.com/contest/1063/problem/B)| | [code](https://ideone.com/SwZS9v)
 
 ### Chương 5: Cây DFS
 #### Tài liệu: 
 - [Cây DFS (Depth-First Search Tree) và ứng dụng](https://wiki.vnoi.info/algo/graph-theory/Depth-First-Search-Tree.md) (VNOI Wiki)
-- [Finding bridges in a graph in $O(N+M)$](https://cp-algorithms.com/graph/bridge-searching.html) (cp-algorithms)
-- [Finding articulation points in a graph in $O(N+M)$](https://cp-algorithms.com/graph/cutpoints.html) (cp-algorithms)
+- [Checking a graph for acyclicity and finding a cycle in O(M)](https://cp-algorithms.com/graph/finding-cycle.html) (cp-algorithms)
+- [Finding bridges in a graph in O(N+M)](https://cp-algorithms.com/graph/bridge-searching.html) (cp-algorithms)
+- [Finding articulation points in a graph in O(N+M)](https://cp-algorithms.com/graph/cutpoints.html) (cp-algorithms)
 #### Bài tập: 
 #### Đồ thị vô hướng:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Round Trip](https://cses.fi/problemset/task/1669)| Tìm chu trình |
+[Round Trip](https://cses.fi/problemset/task/1669)| Tìm chu trình | [code](https://ideone.com/ZvoEtB)
 [ICPC 2023 vòng Quốc gia - J: Jumbled Graph](https://oj.vnoi.info/problem/icpc23_national_j)| DP - cây DFS| 
 [Tìm khớp và cầu (Cơ bản)](https://oj.vnoi.info/problem/graph_)| Khớp và cầu |
 [VM 10 Bài 01 - Điều kiện thời tiết](https://oj.vnoi.info/problem/weather)| |
