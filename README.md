@@ -587,12 +587,12 @@ Problems| Tags| Editorial
 #### Đồ thị vô hướng:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Round Trip](https://cses.fi/problemset/task/1669)| Tìm chu trình | [code](https://ideone.com/ZvoEtB)
-[ICPC 2023 vòng Quốc gia - J: Jumbled Graph](https://oj.vnoi.info/problem/icpc23_national_j)| DP - cây DFS| 
-[Tìm khớp và cầu (Cơ bản)](https://oj.vnoi.info/problem/graph_)| Khớp và cầu |
-[VM 10 Bài 01 - Điều kiện thời tiết](https://oj.vnoi.info/problem/weather)| |
-[Thành phố trọng yếu](https://oj.vnoi.info/problem/critical)| |
-[Sửa cầu](https://oj.vnoi.info/problem/kbuild)| |
+[Round Trip](https://cses.fi/problemset/task/1669)| Tìm chu trình | [code](https://ideone.com/Z1yUcj)
+[ICPC 2023 vòng Quốc gia - J: Jumbled Graph](https://oj.vnoi.info/problem/icpc23_national_j)| DP - cây DFS| [code](https://ideone.com/6QXntz)
+[Tìm khớp và cầu (Cơ bản)](https://oj.vnoi.info/problem/graph_)| Khớp và cầu | [code](https://ideone.com/TfnZxw)
+[VM 10 Bài 01 - Điều kiện thời tiết](https://oj.vnoi.info/problem/weather)| | [code](https://ideone.com/P38XkX)
+[Thành phố trọng yếu](https://oj.vnoi.info/problem/critical)| | [code](https://ideone.com/ZYmqmX)
+[Sửa cầu](https://oj.vnoi.info/problem/kbuild)| | [code](https://ideone.com/itqcnQ)
 [VOI 15 Bài 3 - Kế hoạch cải tổ](https://oj.vnoi.info/problem/reform)| |
 [Police](https://oj.vnoi.info/problem/nkpolice)| |
 #### Đồ thị có hướng: 
