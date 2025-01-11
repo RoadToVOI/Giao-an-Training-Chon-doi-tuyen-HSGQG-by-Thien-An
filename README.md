@@ -593,8 +593,8 @@ Problems| Tags| Editorial
 [VM 10 Bài 01 - Điều kiện thời tiết](https://oj.vnoi.info/problem/weather)| | [code](https://ideone.com/P38XkX)
 [Thành phố trọng yếu](https://oj.vnoi.info/problem/critical)| | [code](https://ideone.com/ZYmqmX)
 [Sửa cầu](https://oj.vnoi.info/problem/kbuild)| | [code](https://ideone.com/itqcnQ)
-[VOI 15 Bài 3 - Kế hoạch cải tổ](https://oj.vnoi.info/problem/reform)| |
-[Police](https://oj.vnoi.info/problem/nkpolice)| |
+[VOI 15 Bài 3 - Kế hoạch cải tổ](https://oj.vnoi.info/problem/reform)| | [code](https://ideone.com/fRFmoR)
+[Police](https://oj.vnoi.info/problem/nkpolice)| | [code](https://ideone.com/1f87wp)
 #### Đồ thị có hướng: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
