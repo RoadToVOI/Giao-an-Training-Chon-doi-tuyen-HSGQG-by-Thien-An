@@ -600,8 +600,7 @@ Problems| Tags| Editorial
 |--|:--:|:--:
 [Round Trip II](https://cses.fi/problemset/task/1678)| Tìm chu trình|
 [Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)| Thành phần liên thông mạnh |
-[C. Checkposts](https://codeforces.com/problemset/problem/427/C)|Nén thành phần liên thông mạnh|
-[Truyền tin](https://oj.vnoi.info/problem/message)| |
+[Truyền tin](https://oj.vnoi.info/problem/message)| Nén thành phần liên thông mạnh |
 [VOI 06 Bài 5 - Mạng máy tính](https://oj.vnoi.info/problem/nkonearc)
 [Coin Collector](https://cses.fi/problemset/task/1686)| |
 
