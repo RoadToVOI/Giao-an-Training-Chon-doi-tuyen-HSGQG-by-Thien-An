@@ -300,6 +300,29 @@ Những OJ để làm bài tập, contest:
 [Reachable Nodes](https://cses.fi/problemset/task/2138)| | [code](https://ideone.com/Jw0oIo)
 [Reachability Queries](https://cses.fi/problemset/result/4538571/)| |
 
+### Chương 8: Stack & Deque
+#### Tài liệu:
+- [Stacks](https://usaco.guide/gold/stacks?lang=cpp) (USACO Guide)
+- [Minimum stack / Minimum queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html) (cp-algorithms)
+- [Stack (ngăn xếp)](https://wiki.vnoi.info/algo/data-structures/Stack) (VNOI Wiki)
+- [Hàng đợi hai đầu (deque) và Bài toán tìm max-min trong đoạn tịnh tiến](https://wiki.vnoi.info/algo/data-structures/deque-min-max) (VNOI Wiki)
+#### Bài tập: 
+#### Stack: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Nearest Smaller Values](https://cses.fi/problemset/task/1645)| |
+[Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)| |
+[Đếm hình chữ nhật trên bảng 0-1](https://oj.vnoi.info/problem/crec01)| |
+[B. Mike and Feet](https://codeforces.com/problemset/problem/547/B)| |
+[G - Divide a Sequence](https://atcoder.jp/contests/abc234/tasks/abc234_g)| |
+[B. Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B)| |
+[C. Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C)| |
+#### Deque:
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)| |
+[Thằng bờm và Phú ông](https://lqdoj.edu.vn/problem/bottles)| |
+
 ## Phần IV: Quay lui, Vét cạn
 ### Chương 1: Quay lui, vét cạn (Backtracking)
 #### Tài liệu: 
