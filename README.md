@@ -316,11 +316,13 @@ Những OJ để làm bài tập, contest:
 [B. Mike and Feet](https://codeforces.com/problemset/problem/547/B)| |
 [G - Divide a Sequence](https://atcoder.jp/contests/abc234/tasks/abc234_g)| |
 [B. Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B)| |
+[E. Skyline Photo](https://codeforces.com/contest/1482/problem/E)| |
 [C. Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C)| |
 #### Deque:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)| |
+[Maximum Subarray Sum II](https://cses.fi/problemset/task/1644)| |
 [Thằng bờm và Phú ông](https://lqdoj.edu.vn/problem/bottles)| |
 
 ## Phần IV: Quay lui, Vét cạn
@@ -621,11 +623,11 @@ Problems| Tags| Editorial
 #### Đồ thị có hướng: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Round Trip II](https://cses.fi/problemset/task/1678)| Tìm chu trình|
-[Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)| Thành phần liên thông mạnh |
-[Truyền tin](https://oj.vnoi.info/problem/message)| Nén thành phần liên thông mạnh |
-[VOI 06 Bài 5 - Mạng máy tính](https://oj.vnoi.info/problem/nkonearc)
-[Coin Collector](https://cses.fi/problemset/task/1686)| |
+[Round Trip II](https://cses.fi/problemset/task/1678)| Tìm chu trình| [code](https://ideone.com/fusoCd)
+[Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)| Thành phần liên thông mạnh | [code](https://ideone.com/c7xYG3)
+[Truyền tin](https://oj.vnoi.info/problem/message)| Nén thành phần liên thông mạnh | [code](https://ideone.com/SZuKEu)
+[VOI 06 Bài 5 - Mạng máy tính](https://oj.vnoi.info/problem/nkonearc)| | [code](https://ideone.com/c4gmYn)
+[Coin Collector](https://cses.fi/problemset/task/1686)| | [code](https://ideone.com/TPDRev)
 
 ### Chương 6: Cây khung nhỏ nhất (MST)
 #### Tài liệu: 
