@@ -310,13 +310,13 @@ Những OJ để làm bài tập, contest:
 #### Stack: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Nearest Smaller Values](https://cses.fi/problemset/task/1645)| |
-[Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)| |
+[Nearest Smaller Values](https://cses.fi/problemset/task/1645)| | [code](https://ideone.com/NGYIc5)
+[Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)| | [code](https://ideone.com/JDiGy2)
 [Đếm hình chữ nhật trên bảng 0-1](https://oj.vnoi.info/problem/crec01)| |
-[B. Mike and Feet](https://codeforces.com/problemset/problem/547/B)| |
-[G - Divide a Sequence](https://atcoder.jp/contests/abc234/tasks/abc234_g)| |
-[B. Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B)| |
+[B. Mike and Feet](https://codeforces.com/problemset/problem/547/B)| | [code](https://ideone.com/1oUwIC)
+[B. Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B)| | [code](https://ideone.com/HGz72s)
 [E. Skyline Photo](https://codeforces.com/contest/1482/problem/E)| |
+[G - Divide a Sequence](https://atcoder.jp/contests/abc234/tasks/abc234_g)| |
 [C. Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C)| |
 #### Deque:
 |Problems |Tags |Editorial
