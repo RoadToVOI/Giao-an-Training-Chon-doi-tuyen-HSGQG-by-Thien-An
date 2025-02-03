@@ -322,7 +322,7 @@ Những OJ để làm bài tập, contest:
 #### Deque:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)| Tìm min/max trên đoạn tịnh tiến| [code](https://ideone.com/IxQTkv)
+[Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)| Tìm min/max trên đoạn tịnh tiến| [code](https://ideone.com/QAvb6R)
 [Maximum Subarray Sum II](https://cses.fi/problemset/task/1644)| | [code](https://ideone.com/zJ0anW)
 [Thằng bờm và Phú ông](https://lqdoj.edu.vn/problem/bottles)| | [code](https://ideone.com/gWMq29)
 
