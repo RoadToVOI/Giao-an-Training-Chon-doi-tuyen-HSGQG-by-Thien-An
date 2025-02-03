@@ -4,7 +4,7 @@ Giáo án đi từ những kiến thức nền tảng quan trọng nhất cho đ
 ## Dấu ấn cá nhân
 - Anh tên là Huỳnh Thiên An, cựu học sinh trường THPT chuyên Nguyễn Bỉnh Khiêm tỉnh Quảng Nam (ITK19)
 - Giới thiệu sơ qua các thành tích nổi bật mà anh đã đạt được trong 3 năm cấp 3: 
-   - Lớp 10 
+   - Lớp 10: 
       + Giải KK kỳ thi chọn đội tuyển tham dự kì thi HSG QG.
       + HCV Olympic 30/4 khối lớp 10
    - Lớp 11: 
@@ -19,12 +19,12 @@ Còn hiện tại thì anh đang theo học lớp Cử nhân tài năng (K23) c�
 ## Lịch học hàng tuần 
 - Tuần 2 buổi, mỗi buổi kéo dài từ 1 tiếng 30' đến 2 tiếng.
 - Kiến thức mỗi buổi sẽ do anh chọn hoặc tuỳ chọn theo nhu cầu số đông của các em nếu anh thấy hợp lí. 
-- Khi học một thuật toán/ý tưởng mới thì buổi đầu sẽ nói qua lý thuyết, những buổi sau sẽ giải những bài tập liên quan đến nó.  
+- Khi học một thuật toán/ý tưởng mới thì buổi đầu anh sẽ nói qua lý thuyết, những buổi sau sẽ giải những bài tập liên quan đến nó.  
 - Bài tập của những chương sau có thể sẽ áp dụng kiến thức từ những chương trước.
 - Hình thức: online qua Google Meet. Có thể mỗi buổi là 2 link Google Meet vì Google Meet có giới hạn thời gian :<
   
-## Yêu cầu
-- Nắm rõ những gì anh nói trong buổi học, và khuyến khích các em AC hết tất cả các bài tập có trong giáo án. 
+## Note:
+- Các em cố gắng nắm rõ những gì anh nói trong các buổi học, và khuyến khích các em AC hết tất cả các bài tập có trong giáo án. 
 - Các em có góp ý hay thắc mắc gì trong quá trình học thì cứ nhắn trực tiếp cho anh.
 
 ## Nguồn học lập trình thi đấu (CP)
@@ -312,18 +312,19 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [Nearest Smaller Values](https://cses.fi/problemset/task/1645)| | [code](https://ideone.com/NGYIc5)
 [Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)| | [code](https://ideone.com/JDiGy2)
-[Đếm hình chữ nhật trên bảng 0-1](https://oj.vnoi.info/problem/crec01)| |
 [B. Mike and Feet](https://codeforces.com/problemset/problem/547/B)| | [code](https://ideone.com/1oUwIC)
 [B. Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B)| | [code](https://ideone.com/HGz72s)
-[E. Skyline Photo](https://codeforces.com/contest/1482/problem/E)| |
-[G - Divide a Sequence](https://atcoder.jp/contests/abc234/tasks/abc234_g)| |
-[C. Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C)| |
+[E. Skyline Photo](https://codeforces.com/contest/1482/problem/E)| DP x Stack | [code](https://ideone.com/I5pemu)
+[Đếm hình chữ nhật trên bảng 0-1](https://oj.vnoi.info/problem/crec01)| | [code](https://ideone.com/Yff45g)
+[G - Divide a Sequence](https://atcoder.jp/contests/abc234/tasks/abc234_g)| | [code](https://ideone.com/tJHF9b)
+[C. Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C)| | [code](https://ideone.com/bhS0Mv)
+[Bedao OI Contest 2 - Đếm dãy ngoặc đúng](https://oj.vnoi.info/problem/bedao_oi2_d)| | [code](https://ideone.com/Nv9K5p)
 #### Deque:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)| |
-[Maximum Subarray Sum II](https://cses.fi/problemset/task/1644)| |
-[Thằng bờm và Phú ông](https://lqdoj.edu.vn/problem/bottles)| |
+[Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)| Tìm min/max trên đoạn tịnh tiến| [code](https://ideone.com/IxQTkv)
+[Maximum Subarray Sum II](https://cses.fi/problemset/task/1644)| | [code](https://ideone.com/zJ0anW)
+[Thằng bờm và Phú ông](https://lqdoj.edu.vn/problem/bottles)| | [code](https://ideone.com/gWMq29)
 
 ## Phần IV: Quay lui, Vét cạn
 ### Chương 1: Quay lui, vét cạn (Backtracking)
