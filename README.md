@@ -294,11 +294,11 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Bộ ba cao thủ](https://oj.vnoi.info/problem/nktrio)| |
 [Beautiful Subgrids](https://cses.fi/problemset/task/2137)| | [code](https://ideone.com/2FDKjf)
+[G - Triangle](https://atcoder.jp/contests/abc258/tasks/abc258_g)| | [code](https://ideone.com/z9yytE)
 [School Excursion](https://cses.fi/problemset/task/1706)| | [code](https://ideone.com/9GuMrO)
-[Reachable Nodes](https://cses.fi/problemset/task/2138)| | [code](https://ideone.com/Jw0oIo)
-[Reachability Queries](https://cses.fi/problemset/result/4538571/)| |
+[Reachable Nodes](https://cses.fi/problemset/task/2138)| | [code](https://ideone.com/vrGRZn)
+[Reachability Queries](https://cses.fi/problemset/task/2143)| | [code](https://ideone.com/Etm75b)
 
 ### Chương 8: Stack & Deque
 #### Tài liệu:
@@ -643,8 +643,7 @@ Problems| Tags| Editorial
 [B. 0-1 MST](https://codeforces.com/problemset/problem/1242/B)| | [code](https://ideone.com/FKYYal)
 [Riêng một góc trời](https://nbk.homes/problem/cwdrmgt)| | [code](https://ideone.com/7sZGz5)
 [G. MinOr Tree](https://codeforces.com/problemset/problem/1624/G)| | [code](https://ideone.com/5dGqN1)
-[E. Opening Portals](https://codeforces.com/contest/196/problem/E)| |
-[D. Edges in MST](https://codeforces.com/contest/160/problem/D)| |
+[D. Edges in MST](https://codeforces.com/contest/160/problem/D)| | [code](https://ideone.com/MmK9Ps)
 [VOI 11 Bài 6 - Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)| |
 [E. Minimum spanning tree for each edge](https://codeforces.com/problemset/problem/609/E)| | 
 
