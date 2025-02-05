@@ -216,7 +216,7 @@ Những OJ để làm bài tập, contest:
 [Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT x Prefix Sum|  [code](https://ideone.com/2CS8w5)
 [Salary Queries](https://cses.fi/problemset/task/1144/)| BIT x Nén số| [code](https://ideone.com/wVOedy)
 [D-query](https://oj.vnoi.info/problem/dquery)| Distinct Value Queries | [code](https://ideone.com/PUZYgc)
-[Khoảng cách](https://lqdoj.edu.vn/problem/dist2021)| Binary Search x Two Pointers x BIT |
+[Khoảng cách](https://lqdoj.edu.vn/problem/dist2021)| Binary Search x Two Pointers x BIT | [code](https://ideone.com/xqQJZs)
 [VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search x Prefix Sum x DP Optimization using BIT| [code](https://ideone.com/hIKz18)
 
 ### Chương 4: Cây phân đoạn (Segment Tree)
