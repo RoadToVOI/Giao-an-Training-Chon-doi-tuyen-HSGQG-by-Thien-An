@@ -313,6 +313,7 @@ Những OJ để làm bài tập, contest:
 [Nearest Smaller Values](https://cses.fi/problemset/task/1645)| | [code](https://ideone.com/NGYIc5)
 [Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)| | [code](https://ideone.com/JDiGy2)
 [B. Mike and Feet](https://codeforces.com/problemset/problem/547/B)| | [code](https://ideone.com/1oUwIC)
+[Đoạn hai đầu](https://lqdoj.edu.vn/problem/olp3sldoublehead)| | [code](https://ideone.com/Y47UAm)
 [B. Maximum Xor Secondary](https://codeforces.com/contest/280/problem/B)| | [code](https://ideone.com/HGz72s)
 [E. Skyline Photo](https://codeforces.com/contest/1482/problem/E)| DP x Stack | [code](https://ideone.com/I5pemu)
 [Đếm hình chữ nhật trên bảng 0-1](https://oj.vnoi.info/problem/crec01)| | [code](https://ideone.com/Yff45g)
@@ -353,6 +354,7 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)| | [code](https://atcoder.jp/contests/dp/submissions/52517660)
 [Xếp hàng mua vé](https://oj.vnoi.info/problem/nktick)| | [code](https://ideone.com/5hHZy4)
+[D - FG operation](https://atcoder.jp/contests/abc220/tasks/abc220_d)| | [code](https://ideone.com/6JdnH1)
 [D - Flipping Signs](https://atcoder.jp/contests/abc125/tasks/abc125_d)| | [code](https://ideone.com/4Xuq40)
 [Removing Digits](https://cses.fi/problemset/task/1637)| | [code](https://cses.fi/paste/bfa69186a1a66eb1897392/)
 [Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [code](https://cses.fi/paste/b1cad99348e945e18973dd/)
