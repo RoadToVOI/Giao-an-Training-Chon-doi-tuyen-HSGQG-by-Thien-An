@@ -130,6 +130,21 @@ Những OJ để làm bài tập, contest:
 [Christmas Party](https://cses.fi/problemset/task/1717)| |
 [Counting Sequences](https://cses.fi/problemset/task/2228)| |
 
+### Chương 5: Xử lý số nguyên lớn (BigInt)
+#### Tài liệu:
+- [Arbitrary-Precision Arithmetic](https://cp-algorithms.com/algebra/big-integer.html) (cp-algorithms)
+- [Template BigInt (unsigned)](https://ideone.com/ygGMrx)
+- [Template BigInt (signed)](https://github.com/ShahjalalShohag/code-library/blob/main/Miscellaneous/BigInt.cpp)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Xử lý số nguyên lớn](https://oj.vnoi.info/problem/bignum)| |
+[MUL - Fast Multiplication](https://www.spoj.com/problems/MUL/en/)| |
+[Lát gạch](https://oj.vnoi.info/problem/latgach)| |
+[Cô giáo dạy toán, phần I](https://oj.vnoi.info/problem/cruell)| |
+[Sum](https://oj.vnoi.info/problem/spsum)| |
+[Bất biến đại số](https://oj.vnoi.info/problem/olp_ct19_topo)| |
+
 ## Phần II: Tìm kiếm nhị phân & Kĩ thuật Hai con trỏ 
 ### Chương 1: Tìm kiếm nhị phân (Binary Search) 
 #### Tài liệu: 
@@ -261,6 +276,7 @@ Những OJ để làm bài tập, contest:
 [K-query II](https://oj.vnoi.info/problem/kquery2)| | [code](https://ideone.com/Fkwg9h)
 [Sum of Divisors](https://cses.fi/problemset/task/1082)| | [code](https://ideone.com/Wd5mRr)
 [F - Hop Sugoroku](https://atcoder.jp/contests/abc335/tasks/abc335_f)| | [code](https://ideone.com/wmBy0z)
+[D. Mr. Kitayuta's Colorful Graph](https://codeforces.com/contest/506/problem/D)| |
 #### Thuật toán Mo:
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -524,11 +540,11 @@ Problems| Tags| Editorial
 [Counting Rooms](https://cses.fi/problemset/task/1192)| | [code](https://ideone.com/NVHrU5)
 [Quảng cáo](https://oj.vnoi.info/problem/ads)| | [code](https://ideone.com/eLuszV) 
 [Biến đổi số](https://oj.vnoi.info/problem/number)| |
-[ICEFROG](https://oj.vnoi.info/problem/vukvn)| |
 [Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)| | [code](https://ideone.com/ZEl5nM)
 [Mountain Walking](https://oj.vnoi.info/problem/mtwalk)| | [code](https://ideone.com/79mZKJ)
+[ICEFROG](https://oj.vnoi.info/problem/vukvn)| |
+[D. Dima and Trap Graph](https://codeforces.com/problemset/problem/366/D)| | [code](https://ideone.com/hODSMp)
 [Building Teams](https://cses.fi/problemset/task/1668)| | [code](https://ideone.com/BR3SxI)
-[CHỌN ROBOT](https://oj.vnoi.info/problem/pvoi14_2)| |
 [Robot UpRace](https://oj.vnoi.info/problem/codetour24_f_e)| | [code](https://ideone.com/Zg91Rr)
 
 ### Chương 2: DSU x Small to Large
@@ -547,7 +563,7 @@ Problems| Tags| Editorial
 [CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)| | [code](https://ideone.com/fDfpKC)
 [G. Path Queries](https://codeforces.com/contest/1213/problem/G)| | [code](https://ideone.com/GbDzIa)
 [Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| | [code](https://ideone.com/TVQLHL)
-[D. Mr. Kitayuta's Colorful Graph](https://codeforces.com/contest/506/problem/D)
+[CHỌN ROBOT](https://oj.vnoi.info/problem/pvoi14_2)| |
 #### Small to Large: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -592,6 +608,7 @@ Problems| Tags| Editorial
 [VM 08 Bài 13 - Bin Laden](https://oj.vnoi.info/problem/binladen)| | [code](https://ideone.com/0wBtM6)
 [Flight Routes](https://cses.fi/problemset/task/1196)| | [code](https://ideone.com/sgzawB)
 [Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)| | [code](https://ideone.com/hGAxbe)
+[E. Minimum Path](https://codeforces.com/contest/1473/problem/e)| |
 [VOI 17 Bài 4 - Tàu điện ngầm](https://oj.vnoi.info/problem/voi17_metro)| | [code](https://ideone.com/TDnBFB)
 [ELEVATOR II](https://oj.vnoi.info/problem/mele2)| | [code](https://ideone.com/lcDeK4)
 [Investigation](https://cses.fi/problemset/task/1202)| Đồ thị đường đi ngắn nhất| [code](https://ideone.com/ALnn0r)
@@ -661,8 +678,10 @@ Problems| Tags| Editorial
 [Company Queries II](https://cses.fi/problemset/task/1688)| |
 [Distance Queries](https://cses.fi/problemset/task/1135)| |
 [Lubenica](https://oj.vnoi.info/problem/lubenica)| |
+[F - Colorful Tree](https://atcoder.jp/contests/abc133/tasks/abc133_f)| |
 [Counting Paths](https://cses.fi/problemset/task/1136)| |
-[Cây Nhi](https://lqdoj.edu.vn/problem/tkpc07tree)| | 
+[Putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje)| |
+[dynamic LCA](https://oj.vnoi.info/problem/hbtlca)| |
 
 ### Chương 2: Đường kính của cây
 #### Tài liệu: 
@@ -673,12 +692,14 @@ Problems| Tags| Editorial
 [Tree Distances I](https://cses.fi/problemset/task/1132)| |
 [Dịch vụ chăm sóc khách hàng](https://lqdoj.edu.vn/problem/service)| |
 [F - Exactly K Steps](https://atcoder.jp/contests/abc267/tasks/abc267_f)| |
+[Làm quen bạn mới](https://oj.vnoi.info/problem/fselect)| |
 [C. Civilization](https://codeforces.com/contest/455/problem/C)| |
 
 ### Chương 3: Quy hoạch động trên Cây (DP on Trees)
 #### Tài liệu: 
 - [Quy hoạch động trên cây](https://wiki.vnoi.info/algo/dp/treedp) (VNOI Wiki)
 - [DP on Trees - Solving For All Roots](https://usaco.guide/gold/all-roots?lang=cpp) (USACO Guide)
+- [DP on Trees - Combining Subtrees](https://usaco.guide/adv/comb-sub?lang=cpp) (USACO Guide)
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
