@@ -133,17 +133,17 @@ Những OJ để làm bài tập, contest:
 ### Chương 5: Xử lý số nguyên lớn (BigInt)
 #### Tài liệu:
 - [Arbitrary-Precision Arithmetic](https://cp-algorithms.com/algebra/big-integer.html) (cp-algorithms)
-- [Template BigInt (unsigned)](https://ideone.com/ygGMrx)
+- [Template BigInt (unsigned)](https://ideone.com/G1knL1)
 - [Template BigInt (signed)](https://github.com/ShahjalalShohag/code-library/blob/main/Miscellaneous/BigInt.cpp)
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Xử lý số nguyên lớn](https://oj.vnoi.info/problem/bignum)| |
-[MUL - Fast Multiplication](https://www.spoj.com/problems/MUL/en/)| |
-[Lát gạch](https://oj.vnoi.info/problem/latgach)| |
-[Cô giáo dạy toán, phần I](https://oj.vnoi.info/problem/cruell)| |
-[Sum](https://oj.vnoi.info/problem/spsum)| |
-[Bất biến đại số](https://oj.vnoi.info/problem/olp_ct19_topo)| |
+[Xử lý số nguyên lớn](https://oj.vnoi.info/problem/bignum)| | [code](https://ideone.com/xeZg13)
+[MUL - Fast Multiplication](https://www.spoj.com/problems/MUL/en/)| | [code](https://ideone.com/Xf7cd5)
+[Lát gạch](https://oj.vnoi.info/problem/latgach)| | [code](https://ideone.com/D3WyRp)
+[Cô giáo dạy toán, phần I](https://oj.vnoi.info/problem/cruell)| | [code](https://ideone.com/ZZGQPV)
+[Sum](https://oj.vnoi.info/problem/spsum)| | [code](https://ideone.com/99EaKl)
+[Bất biến đại số](https://oj.vnoi.info/problem/olp_ct19_topo)| | [code](https://ideone.com/OuX9rR)
 
 ## Phần II: Tìm kiếm nhị phân & Kĩ thuật Hai con trỏ 
 ### Chương 1: Tìm kiếm nhị phân (Binary Search) 
@@ -659,7 +659,7 @@ Problems| Tags| Editorial
 |--|:--:|:--:
 [Cây khung nhỏ nhất (HEAP)](https://oj.vnoi.info/problem/qbmst)| | [code](https://ideone.com/uBtbap)
 [Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)| | [code](https://ideone.com/LnNLLi)
-[B. 0-1 MST](https://codeforces.com/problemset/problem/1242/B)| | [code](https://ideone.com/FKYYal)
+[B. 0-1 MST](https://codeforces.com/problemset/problem/1242/B)| | [code](https://ideone.com/bbQJqo)
 [Riêng một góc trời](https://nbk.homes/problem/cwdrmgt)| | [code](https://ideone.com/7sZGz5)
 [G. MinOr Tree](https://codeforces.com/problemset/problem/1624/G)| | [code](https://ideone.com/5dGqN1)
 [D. Edges in MST](https://codeforces.com/contest/160/problem/D)| | [code](https://ideone.com/MmK9Ps)
