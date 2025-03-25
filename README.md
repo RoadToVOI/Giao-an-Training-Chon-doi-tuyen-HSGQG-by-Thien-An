@@ -155,6 +155,7 @@ Những OJ để làm bài tập, contest:
 [B. Queries about less or equal elements](https://codeforces.com/problemset/problem/600/B)| | [code](https://codeforces.com/contest/600/submission/242454361)
 [C. Number of Pairs](https://codeforces.com/problemset/problem/1538/C)| | [code](https://codeforces.com/contest/1538/submission/242456350)
 [D. Pair of Topics](https://codeforces.com/problemset/problem/1324/D) | | [code](https://ideone.com/ehre37)
+[D - Range Count Query](https://atcoder.jp/contests/abc248/tasks/abc248_d)| |
 [Mua bài](https://lqdoj.edu.vn/problem/buycard) | | [code](https://ideone.com/jRcRs7)
 [Không chia hết](https://lqdoj.edu.vn/problem/ndivi)| | [code](https://ideone.com/jLapQS)
 [Kiến xếp hàng](https://lqdoj.edu.vn/problem/antsort)| | [code](https://ideone.com/252NXY)
@@ -431,7 +432,6 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [VOI 11 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/bonus)| | [code](https://ideone.com/63KEem)
-[H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| | [code](https://ideone.com/Q0QjEl)
 [VOI 15 Bài 4 - Cắt hình](https://oj.vnoi.info/problem/mincut)| | [code](https://ideone.com/BVAZvm)
 [Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| | [code](https://ideone.com/ZX0pOR)
 [VOI 19 Bài 1 - Năng lượng mặt trời](https://oj.vnoi.info/problem/voi19_solpin)| | 
@@ -521,6 +521,8 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 Problems| Tags| Editorial
 |--|:--:|:--:
+[H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| | [code](https://ideone.com/Q0QjEl)
+[Bài toán 3-SUM](https://nbk.homes/problem/voi233sum)| |
 [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)| | [code](https://ideone.com/ZzfKS4)
 [[Pre-QNOI 2022#02] Mắt biếc](https://nbk.homes/problem/cwdmatbiec)| | [code](https://ideone.com/mG7T5y)
 [Empty String](https://cses.fi/problemset/task/1080)| | [code](https://ideone.com/lXIph9)
@@ -667,7 +669,22 @@ Problems| Tags| Editorial
 [E. Minimum spanning tree for each edge](https://codeforces.com/problemset/problem/609/E)| | 
 
 ## Phần VII: Cây  
-### Chương 1: LCA
+### Chương 1: Euler Tour 
+#### Tài liệu: 
+- [Đường đi Euler trên cây](https://wiki.vnoi.info/vi/algo/graph-theory/euler-tour-on-tree) (VNOI Wiki)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Subtree Queries](https://cses.fi/problemset/task/1137)| |
+[Distinct Colors](https://cses.fi/problemset/task/1139/)| |
+[E. New Year Tree](https://codeforces.com/problemset/problem/620/E)| | 
+[E - Count Descendants](https://atcoder.jp/contests/abc202/tasks/abc202_e)| |
+[D. Tree Requests](https://codeforces.com/contest/570/problem/D)| |
+[Klasika](https://oj.uz/problem/view/COCI20_klasika)| |
+[Path Queries](https://cses.fi/problemset/task/1138)| |
+[D. Water Tree](https://codeforces.com/contest/343/problem/D)| |
+
+### Chương 2: LCA
 #### Tài liệu: 
 - [Lowest Common Ancestor - Binary Lifting](https://cp-algorithms.com/graph/lca_binary_lifting.html) (cp-algorithms)
 - [Lowest Common Ancestor (LCA) - Binary Lifting](https://wiki.vnoi.info/vi/algo/data-structures/lca-binlift) (VNOI Wiki)
@@ -676,14 +693,16 @@ Problems| Tags| Editorial
 |--|:--:|:--:
 [Company Queries I](https://cses.fi/problemset/task/1687)| |
 [Company Queries II](https://cses.fi/problemset/task/1688)| |
-[Distance Queries](https://cses.fi/problemset/task/1135)| |
+[VO 15 Bài 1 - Cây](https://oj.vnoi.info/problem/votree)| |
 [Lubenica](https://oj.vnoi.info/problem/lubenica)| |
+[Distance Queries](https://cses.fi/problemset/task/1135)| |
 [F - Colorful Tree](https://atcoder.jp/contests/abc133/tasks/abc133_f)| |
+[G - Distance Queries on a Tree](https://atcoder.jp/contests/abc294/tasks/abc294_g)| |
 [Counting Paths](https://cses.fi/problemset/task/1136)| |
 [Putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje)| |
 [dynamic LCA](https://oj.vnoi.info/problem/hbtlca)| |
-
-### Chương 2: Đường kính của cây
+[E. Jamie and Tree](https://codeforces.com/contest/916/problem/E)| |
+### Chương 3: Đường kính của cây
 #### Tài liệu: 
 - [[Tutorial] Diameter of a tree and its applications](https://codeforces.com/blog/entry/101271) (blog Codeforces)
 #### Bài tập:
@@ -695,7 +714,7 @@ Problems| Tags| Editorial
 [Làm quen bạn mới](https://oj.vnoi.info/problem/fselect)| |
 [C. Civilization](https://codeforces.com/contest/455/problem/C)| |
 
-### Chương 3: Quy hoạch động trên Cây (DP on Trees)
+### Chương 4: Quy hoạch động trên Cây (DP on Trees)
 #### Tài liệu: 
 - [Quy hoạch động trên cây](https://wiki.vnoi.info/algo/dp/treedp) (VNOI Wiki)
 - [DP on Trees - Solving For All Roots](https://usaco.guide/gold/all-roots?lang=cpp) (USACO Guide)
@@ -708,16 +727,6 @@ Problems| Tags| Editorial
 [Tổ chức đối lập](https://oj.vnoi.info/problem/v8org)| |
 [Another Tree Problem](https://oj.vnoi.info/problem/mtree)| |
 [Tree Distances II](https://cses.fi/problemset/task/1133)| DP Reroot |
-
-### Chương 4: Euler Tour x Sack 
-#### Tài liệu: 
-- [Đường đi Euler trên cây](https://wiki.vnoi.info/vi/algo/graph-theory/euler-tour-on-tree) (VNOI Wiki)
-- [[Tutorial] Sack (dsu on tree)](https://codeforces.com/blog/entry/44351) (blog Codeforces)
-#### Bài tập: 
-|Problems |Tags |Editorial
-|--|:--:|:--:
-[Subtree Queries](https://cses.fi/problemset/task/1137)| | 
-[D. Water Tree](https://codeforces.com/contest/343/problem/D)| |
 
 ### Chương 5: Heavy-Light Decomposition (HLD)
 #### Tài liệu: 
