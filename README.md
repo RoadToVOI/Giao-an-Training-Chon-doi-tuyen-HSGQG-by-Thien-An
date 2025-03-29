@@ -665,14 +665,16 @@ Problems| Tags| Editorial
 [Riêng một góc trời](https://nbk.homes/problem/cwdrmgt)| | [code](https://ideone.com/7sZGz5)
 [G. MinOr Tree](https://codeforces.com/problemset/problem/1624/G)| | [code](https://ideone.com/5dGqN1)
 [D. Edges in MST](https://codeforces.com/contest/160/problem/D)| | [code](https://ideone.com/MmK9Ps)
-[VOI 11 Bài 6 - Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)| |
+[VOI 11 Bài 6 - Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)| MST x LCA | 
 [E. Minimum spanning tree for each edge](https://codeforces.com/problemset/problem/609/E)| | 
-
+[VOI 17 Bài 3 - Trò chơi](https://oj.vnoi.info/problem/voi17_bgame)| |
 ## Phần VII: Cây  
 ### Chương 1: Euler Tour 
 #### Tài liệu: 
 - [Đường đi Euler trên cây](https://wiki.vnoi.info/vi/algo/graph-theory/euler-tour-on-tree) (VNOI Wiki)
+- [Mo's Algorithm on Trees [Tutorial]](https://codeforces.com/blog/entry/43230) (blog Codeforces)
 #### Bài tập: 
+#### Truy vấn Cây con: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Subtree Queries](https://cses.fi/problemset/task/1137)| |
@@ -681,8 +683,12 @@ Problems| Tags| Editorial
 [E - Count Descendants](https://atcoder.jp/contests/abc202/tasks/abc202_e)| |
 [D. Tree Requests](https://codeforces.com/contest/570/problem/D)| |
 [Klasika](https://oj.uz/problem/view/COCI20_klasika)| |
+#### Truy vấn Đường đi: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
 [Path Queries](https://cses.fi/problemset/task/1138)| |
 [D. Water Tree](https://codeforces.com/contest/343/problem/D)| |
+[Count on a tree II](https://www.spoj.com/problems/COT2/)| |
 
 ### Chương 2: LCA
 #### Tài liệu: 
