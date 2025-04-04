@@ -80,8 +80,8 @@ Những OJ để làm bài tập, contest:
 #### Bài tập:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[FACT0](https://www.spoj.com/problems/FACT0/) | Phân tích thừa số O(sqrt(n))| [code](https://ideone.com/sL64ba)
-[[QNOI 2020] Ước tự nhiên](https://nbk.homes/problem/qn20natdiv) | Sàng O(nlog(n)) | [code](https://ideone.com/j32poW)
+[FACT0](https://www.spoj.com/problems/FACT0/) | Phân tích thừa số $O(\sqrt{N})$ | [code](https://ideone.com/sL64ba)
+[[QNOI 2020] Ước tự nhiên](https://nbk.homes/problem/qn20natdiv) | Sàng $O(n\log(n))$ | [code](https://ideone.com/j32poW)
 [G - Short Task](https://codeforces.com/contest/1512/problem/G) | | [code](https://codeforces.com/contest/1512/submission/234391557)
 [B. 250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | | [code](https://codeforces.com/contest/1899/submission/234215285)
 [Nguyên Tố Cùng Nhau](https://lqdoj.edu.vn/problem/23on2c22)| |
@@ -99,7 +99,7 @@ Những OJ để làm bài tập, contest:
 #### Tài liệu:
 - [Giới thiệu về tổ hợp](https://ideone.com/BXeOGe) (Nobody)
 - [Cách tính tổ hợp dùng mảng fact[], inv_fact[]](https://ideone.com/sEPq61) (Nobody)
-- [Cách tính tổ hợp trong O(k)](https://ideone.com/N8U311) (Nobody)
+- [Cách tính tổ hợp trong $O(k)$](https://ideone.com/N8U311) (Nobody)
 - [Cách tính tổ hợp sử dụng tam giác Pascal](https://ideone.com/ZKeXJG) (Nobody)
 - [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) (cp-algorithms)
 - [Stars and bars](https://cp-algorithms.com/combinatorics/stars_and_bars.html) (cp-algorithms)
@@ -677,37 +677,42 @@ Problems| Tags| Editorial
 #### Truy vấn Cây con: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Subtree Queries](https://cses.fi/problemset/task/1137)| |
-[Distinct Colors](https://cses.fi/problemset/task/1139/)| |
-[E. New Year Tree](https://codeforces.com/problemset/problem/620/E)| | 
-[E - Count Descendants](https://atcoder.jp/contests/abc202/tasks/abc202_e)| |
-[D. Tree Requests](https://codeforces.com/contest/570/problem/D)| |
-[Klasika](https://oj.uz/problem/view/COCI20_klasika)| |
+[Subtree Queries](https://cses.fi/problemset/task/1137)| | [code](https://ideone.com/dfOczD)
+[Distinct Colors](https://cses.fi/problemset/task/1139/)| | [code](https://ideone.com/lDopNy)
+[E. New Year Tree](https://codeforces.com/problemset/problem/620/E)| | [code](https://ideone.com/ToQ8gB)
+[E - Count Descendants](https://atcoder.jp/contests/abc202/tasks/abc202_e)| | [code](https://ideone.com/RqbYMh)
+[D. Tree Requests](https://codeforces.com/contest/570/problem/D)| | [code](https://ideone.com/Ksbpnk)
+[D. Tree and Queries](https://codeforces.com/problemset/problem/375/D)| | [code](https://ideone.com/LR1uTW)
+[Klasika](https://oj.uz/problem/view/COCI20_klasika)| | [code](https://ideone.com/rKX1o0)
+[D. Water Tree](https://codeforces.com/contest/343/problem/D)| | [code](https://ideone.com/MDiGjN)
 #### Truy vấn Đường đi: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Path Queries](https://cses.fi/problemset/task/1138)| |
-[D. Water Tree](https://codeforces.com/contest/343/problem/D)| |
-[Count on a tree II](https://www.spoj.com/problems/COT2/)| |
+[Path Queries](https://cses.fi/problemset/task/1138)| | [code](https://ideone.com/sBWDaN)
+[Count on a tree II](https://www.spoj.com/problems/COT2/)| | [code](https://ideone.com/vRWdWj)
 
 ### Chương 2: LCA
 #### Tài liệu: 
 - [Lowest Common Ancestor - Binary Lifting](https://cp-algorithms.com/graph/lca_binary_lifting.html) (cp-algorithms)
 - [Lowest Common Ancestor (LCA) - Binary Lifting](https://wiki.vnoi.info/vi/algo/data-structures/lca-binlift) (VNOI Wiki)
+- [Lowest Common Ancestor - $O(\sqrt{N})$  and  $O(\log N)$  with  $O(N)$  preprocessing](https://cp-algorithms.com/graph/lca.html) (cp-algorithms)
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Company Queries I](https://cses.fi/problemset/task/1687)| |
-[Company Queries II](https://cses.fi/problemset/task/1688)| |
+[Company Queries I](https://cses.fi/problemset/task/1687)| Tìm tổ tiên thứ k của một đỉnh | [code](https://ideone.com/LhFZ3m)
+[Company Queries II](https://cses.fi/problemset/task/1688)| Tìm LCA | [code](https://ideone.com/fjOCiK)
 [VO 15 Bài 1 - Cây](https://oj.vnoi.info/problem/votree)| |
-[Lubenica](https://oj.vnoi.info/problem/lubenica)| |
-[Distance Queries](https://cses.fi/problemset/task/1135)| |
+[Distance Queries](https://cses.fi/problemset/task/1135)| Tìm độ dài đường đi |
 [F - Colorful Tree](https://atcoder.jp/contests/abc133/tasks/abc133_f)| |
 [G - Distance Queries on a Tree](https://atcoder.jp/contests/abc294/tasks/abc294_g)| |
-[Counting Paths](https://cses.fi/problemset/task/1136)| |
-[Putovanje](https://oj.vnoi.info/problem/coci1920_r5_putovanje)| |
-[dynamic LCA](https://oj.vnoi.info/problem/hbtlca)| |
+[Lubenica](https://oj.vnoi.info/problem/lubenica)| Tìm min/max trên đường đi|
+[E. Duff in the Army](https://codeforces.com/contest/588/problem/E)| Mở rộng bài toán trên đường đi |
+[F2. Omsk Metro (hard version)](https://codeforces.com/contest/1843/problem/F2)| |
+[Counting Paths](https://cses.fi/problemset/task/1136)| Đánh dấu đường đi |
+[Putovanje](https://oj.uz/problem/view/COCI20_putovanje)| |
+[dynamic LCA](https://oj.vnoi.info/problem/hbtlca)| Dynamic LCA |
 [E. Jamie and Tree](https://codeforces.com/contest/916/problem/E)| |
+
 ### Chương 3: Đường kính của cây
 #### Tài liệu: 
 - [[Tutorial] Diameter of a tree and its applications](https://codeforces.com/blog/entry/101271) (blog Codeforces)
