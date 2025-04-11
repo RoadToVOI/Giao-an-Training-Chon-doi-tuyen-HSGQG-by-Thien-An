@@ -389,7 +389,7 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--: 
 [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS | [code](https://ideone.com/MlUIdc)
 [E - Common Subsequence](https://atcoder.jp/contests/abc130/tasks/abc130_e)| Đếm số dãy con chung| [code](https://ideone.com/kq1jym)
-[VOI 14 Bài 2 - Dãy con chung bội hai dài nhất](https://oj.vnoi.info/problem/lcs2x)| | [code](https://ideone.com/TJVdjg)
+[VOI 14 Bài 2 - Dãy con chung bội hai dài nhất](https://oj.vnoi.info/problem/lcs2x)| LCS có điều kiện | [code](https://ideone.com/TJVdjg)
 
 #### String: 
 |Problems |Tags |Editorial
@@ -617,7 +617,7 @@ Problems| Tags| Editorial
 [Visiting Cities](https://cses.fi/problemset/task/1203)| | [code](https://ideone.com/oJFHVH)
 [E. President and Roads](https://codeforces.com/contest/567/problem/E)| | [code](https://ideone.com/R2c1c9)
 [B. Jzzhu and Cities](https://codeforces.com/problemset/problem/449/B)| | [code](https://ideone.com/qRzQ3b)
-[[VOI Training] Vé tàu miễn phí](https://nbk.homes/problem/voi23ticket)| | [code](https://ideone.com/5ubm9e)
+[Commuter Pass](https://oj.uz/problem/view/JOI18_commuter_pass)| | [code](https://ideone.com/5ubm9e)
 #### 0-1 BFS:
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -677,14 +677,16 @@ Problems| Tags| Editorial
 #### Truy vấn Cây con: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Subtree Queries](https://cses.fi/problemset/task/1137)| | [code](https://ideone.com/dfOczD)
-[Distinct Colors](https://cses.fi/problemset/task/1139/)| | [code](https://ideone.com/lDopNy)
-[E. New Year Tree](https://codeforces.com/problemset/problem/620/E)| | [code](https://ideone.com/ToQ8gB)
+[Subtree Queries](https://cses.fi/problemset/task/1137)| Truy vấn & Update Cây con| [code](https://ideone.com/g9QH3P)
+[Distinct Colors](https://cses.fi/problemset/task/1139/)| | [code](https://ideone.com/iRCPjl)
+[E. New Year Tree](https://codeforces.com/problemset/problem/620/E)| | [code](https://ideone.com/fnEb5H)
 [E - Count Descendants](https://atcoder.jp/contests/abc202/tasks/abc202_e)| | [code](https://ideone.com/RqbYMh)
 [D. Tree Requests](https://codeforces.com/contest/570/problem/D)| | [code](https://ideone.com/Ksbpnk)
 [D. Tree and Queries](https://codeforces.com/problemset/problem/375/D)| | [code](https://ideone.com/LR1uTW)
 [Klasika](https://oj.uz/problem/view/COCI20_klasika)| | [code](https://ideone.com/rKX1o0)
-[D. Water Tree](https://codeforces.com/contest/343/problem/D)| | [code](https://ideone.com/MDiGjN)
+[Counting Paths](https://cses.fi/problemset/task/1136)| Update đường đi & Truy vấn 1 đỉnh| [code](https://ideone.com/914uJr)
+[Putovanje](https://oj.uz/problem/view/COCI20_putovanje)| | [code](https://ideone.com/pO98XG)
+[D. Water Tree](https://codeforces.com/contest/343/problem/D)| | [code](https://ideone.com/udNn0X)
 #### Truy vấn Đường đi: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -699,19 +701,17 @@ Problems| Tags| Editorial
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Company Queries I](https://cses.fi/problemset/task/1687)| Tìm tổ tiên thứ k của một đỉnh | [code](https://ideone.com/LhFZ3m)
-[Company Queries II](https://cses.fi/problemset/task/1688)| Tìm LCA | [code](https://ideone.com/fjOCiK)
-[VO 15 Bài 1 - Cây](https://oj.vnoi.info/problem/votree)| |
-[Distance Queries](https://cses.fi/problemset/task/1135)| Tìm độ dài đường đi |
-[F - Colorful Tree](https://atcoder.jp/contests/abc133/tasks/abc133_f)| |
-[G - Distance Queries on a Tree](https://atcoder.jp/contests/abc294/tasks/abc294_g)| |
-[Lubenica](https://oj.vnoi.info/problem/lubenica)| Tìm min/max trên đường đi|
-[E. Duff in the Army](https://codeforces.com/contest/588/problem/E)| Mở rộng bài toán trên đường đi |
-[F2. Omsk Metro (hard version)](https://codeforces.com/contest/1843/problem/F2)| |
-[Counting Paths](https://cses.fi/problemset/task/1136)| Đánh dấu đường đi |
-[Putovanje](https://oj.uz/problem/view/COCI20_putovanje)| |
-[dynamic LCA](https://oj.vnoi.info/problem/hbtlca)| Dynamic LCA |
-[E. Jamie and Tree](https://codeforces.com/contest/916/problem/E)| |
+[Company Queries I](https://cses.fi/problemset/task/1687)| Tìm tổ tiên thứ k của một đỉnh | [code](https://ideone.com/CQFufX)
+[Company Queries II](https://cses.fi/problemset/task/1688)| Tìm LCA | [code](https://ideone.com/fWPm2q)
+[VO 15 Bài 1 - Cây](https://oj.vnoi.info/problem/votree)| | [code](https://ideone.com/EUlUVH)
+[Distance Queries](https://cses.fi/problemset/task/1135)| Tính khoảng cách giữa 2 đỉnh | [code](https://ideone.com/bjpuNn)
+[G - Distance Queries on a Tree](https://atcoder.jp/contests/abc294/tasks/abc294_g)| | [code](https://ideone.com/SUgLms)
+[F - Colorful Tree](https://atcoder.jp/contests/abc133/tasks/abc133_f)| | [code](https://ideone.com/X4ZYc2)
+[Lubenica](https://oj.vnoi.info/problem/lubenica)| Tìm min/max trên đường đi| [code](https://ideone.com/4zQ5OZ)
+[E. Duff in the Army](https://codeforces.com/contest/588/problem/E)| Mở rộng bài toán trên đường đi | [code](https://ideone.com/JhH4RR)
+[F2. Omsk Metro (hard version)](https://codeforces.com/contest/1843/problem/F2)| | [code](https://ideone.com/639WuS)
+[dynamic LCA](https://oj.vnoi.info/problem/hbtlca)| Re-rooting | [code](https://ideone.com/DgQwlx)
+[E. Jamie and Tree](https://codeforces.com/contest/916/problem/E)| | [code](https://ideone.com/WPKk7u)
 
 ### Chương 3: Đường kính của cây
 #### Tài liệu: 
