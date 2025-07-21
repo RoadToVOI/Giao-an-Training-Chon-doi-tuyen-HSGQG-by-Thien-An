@@ -195,8 +195,8 @@ Những OJ để làm bài tập, contest:
 [Concert Tickets](https://cses.fi/problemset/task/1091) | multiset | [code](https://ideone.com/3wzdle)
 [C. Registration system](https://codeforces.com/problemset/problem/4/C)| map | [code](https://codeforces.com/contest/4/submission/237862811)
 [Chess Tournament](https://cses.fi/problemset/task/1697)| priority_queue | 
-[Traffic Lights](https://cses.fi/problemset/task/1163)| set x multiset |
-[Sliding Window Cost](https://cses.fi/problemset/task/1077)| multiset |
+[Traffic Lights](https://cses.fi/problemset/task/1163)| set x multiset | [code](https://ideone.com/xfiGDg)
+[Sliding Window Cost](https://cses.fi/problemset/task/1077)| multiset | [code](https://ideone.com/l6j0Tb)
 ### Chương 2: Tổng tiền tố (Prefix Sum)
 #### Tài liệu: 
 - [2 bài toán về tổng tiền tố](https://ideone.com/emriDj) (Nobody)
@@ -210,7 +210,8 @@ Những OJ để làm bài tập, contest:
 [Dãy 2-Sum](https://oj.vnoi.info/problem/twosum) | | [code](https://ideone.com/aJMsPs)
 [Subarray Sum II](https://cses.fi/problemset/task/1661)| | [code](https://cses.fi/paste/29d15be75c988e607d8ef4/)
 [C. Good Subarrays](https://codeforces.com/problemset/problem/1398/C)| | [code](https://codeforces.com/contest/1398/submission/242461474)
-[E - Manhattan Multifocal Ellipse](https://atcoder.jp/contests/abc366/tasks/abc366_e)| |
+[E - Manhattan Multifocal Ellipse](https://atcoder.jp/contests/abc366/tasks/abc366_e)| | [code](https://ideone.com/U6fNKT)
+[E. Turn Off The TV](https://codeforces.com/contest/863/problem/E)| Nén số x Prefix Sum| [code](https://ideone.com/S9QFLZ)
 
 ### Chương 3: Cây chỉ số nhị phân (BIT / Fenwick Tree) ft. Kỹ thuật nén số
 #### Tài liệu:
@@ -227,7 +228,7 @@ Những OJ để làm bài tập, contest:
 [Increasing Subsequence II](https://cses.fi/problemset/task/1748/)| | [code](https://ideone.com/0ufJZ2)
 [Nested Ranges Count](https://cses.fi/problemset/task/2169)| |[code](https://ideone.com/EwqKWM)
 [D. Ball](https://codeforces.com/contest/12/problem/D)| | [code](https://ideone.com/5cSgG4)
-[E - LEQ](https://atcoder.jp/contests/abc221/tasks/abc221_e)| |
+[E - LEQ](https://atcoder.jp/contests/abc221/tasks/abc221_e)| | [code](https://ideone.com/ibBmvB)
 [List Removals](https://cses.fi/problemset/task/1749/)| Ordered Set Implementation| [code](https://ideone.com/PV9Mut)
 [Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT x Prefix Sum|  [code](https://ideone.com/2CS8w5)
 [Salary Queries](https://cses.fi/problemset/task/1144/)| BIT x Nén số| [code](https://ideone.com/wVOedy)
@@ -254,10 +255,10 @@ Những OJ để làm bài tập, contest:
 [Subarray Sum Queries](https://cses.fi/problemset/task/1190)| Truy vấn Đoạn con có tổng lớn nhất| [code](https://ideone.com/hlRmYp)
 [Sereja and Brackets](https://codeforces.com/contest/380/problem/C)| Truy vấn Dãy ngoặc đúng| [code](https://ideone.com/NIhNtG)
 [Bit Inversions](https://cses.fi/problemset/task/1188/)| Truy vấn Đoạn con dài nhất chỉ chứa 1 bit| [code](https://ideone.com/M9OccU)
-[E. Turn Off The TV](https://codeforces.com/contest/863/problem/E)| Nén số x Prefix Sum x Segment Tree|
 [F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| Segment Tree x Brute force| [code](https://ideone.com/rlJvuX)
 [E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| Counting Sort x Segment Tree| [code](https://ideone.com/IWO2Pv)
 [E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| Bitmask x Segment Tree | [code](https://ideone.com/LBKkLc) 
+[G. Mass Change Queries](https://codeforces.com/contest/911/problem/G)| |
 #### DP x Segment Tree: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -299,10 +300,10 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Planets Queries I](https://cses.fi/problemset/task/1750)| | [code](https://ideone.com/6bHBzp)
+[E - Permute K times](https://atcoder.jp/contests/abc367/tasks/abc367_e)| | [code](https://ideone.com/491UMU)
 [Cyclic Array](https://cses.fi/problemset/task/1191/)| | [code](https://ideone.com/Mu0Rhu)
 [Movie Festival Queries](https://cses.fi/problemset/task/1664)| | [code](https://ideone.com/eOcntW)
 [Increasing Array Queries](https://cses.fi/problemset/task/2416)| | [code](https://ideone.com/IsGYaa)
-[E - Permute K times](https://atcoder.jp/contests/abc367/tasks/abc367_e)| |
 
 ### Chương 7: Bitset
 #### Tài liệu:
@@ -351,17 +352,16 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Duyên Hải 2021 - Khối 10 - Bài 3 - Mua hàng](https://oj.vnoi.info/problem/dhbb21_buying) (subtask 1)| | [code](https://ideone.com/Q3JEa1)
-[VOI 22 Bài 1 - Chọn cặp](https://oj.vnoi.info/problem/voi22_pair) (subtask 1)| | [code](https://ideone.com/49NgRe)
-[Chessboard and Queens](https://cses.fi/problemset/task/1624)| | [code](https://ideone.com/G3zzM4)
-[Grid Paths](https://cses.fi/problemset/task/1625)| Nhánh cận (Branch and Bound)| [code](https://ideone.com/NHTVk7)
-[Biểu thức](https://oj.vnoi.info/problem/backtrack_e)| | [code](https://ideone.com/r2c4u8)
-[A. LLPS](https://codeforces.com/contest/202/problem/A)| | [code](https://ideone.com/I4f3fQ)
-[B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [code](https://ideone.com/ESsanF)
+[Đổi dấu](https://oj.vnoi.info/problem/backtrack_k)| | [code](https://ideone.com/p6f7a6)
 [Binpacking](https://oj.vnoi.info/problem/binpack) (subtask 1)| | [code](https://ideone.com/Uf3Dqs)
-[Bể chứa nước](https://oj.vnoi.info/problem/backtrack_c)| |
-[Đổi dấu](https://oj.vnoi.info/problem/backtrack_k)| |
-  
+[B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [code](https://ideone.com/ESsanF)
+[A. LLPS](https://codeforces.com/contest/202/problem/A)| | [code](https://ideone.com/I4f3fQ)
+[Duyên Hải 2021 - Khối 10 - Bài 3 - Mua hàng](https://oj.vnoi.info/problem/dhbb21_buying) (subtask 1)| | [code](https://ideone.com/Q3JEa1)
+[Biểu thức](https://oj.vnoi.info/problem/backtrack_e)| | [code](https://ideone.com/r2c4u8)
+[Chessboard and Queens](https://cses.fi/problemset/task/1624)| | [code](https://ideone.com/G3zzM4)
+[VOI 22 Bài 1 - Chọn cặp](https://oj.vnoi.info/problem/voi22_pair) (subtask 1)| | [code](https://ideone.com/49NgRe)
+[Bể chứa nước](https://oj.vnoi.info/problem/backtrack_c)| | [code](https://ideone.com/dyweYq)
+[Grid Paths](https://cses.fi/problemset/task/1625)| Nhánh cận (Branch and Bound)| [code](https://ideone.com/NHTVk7)
 ## Phần V: Quy hoạch động (DP) 
 ### Chương 1: DP General
 #### Tài liệu:
@@ -377,7 +377,6 @@ Những OJ để làm bài tập, contest:
 [Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [code](https://cses.fi/paste/b1cad99348e945e18973dd/)
 [[QNOI 2021] Xâu luân phiên](https://nbk.homes/problem/qn21altstr)| | [code](https://ideone.com/b95DUi)
 [ARITHMETIC PROGRESSION](https://oj.vnoi.info/problem/lem5)| |
-[E - Many Operations](https://atcoder.jp/contests/abc261/tasks/abc261_e)| |
 [F - Reordering](https://atcoder.jp/contests/abc234/tasks/abc234_f)| |
 #### LIS: 
 |Problems |Tags |Editorial
@@ -456,7 +455,8 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Hamming Distance](https://cses.fi/problemset/task/2136)| | [code](https://ideone.com/ZwIA2J)
-[D - XOR World](https://atcoder.jp/contests/abc121/tasks/abc121_d)| |
+[D - XOR World](https://atcoder.jp/contests/abc121/tasks/abc121_d)| | [code](https://ideone.com/VkhAnH)
+[E - Many Operations](https://atcoder.jp/contests/abc261/tasks/abc261_e)| |
 ### Chương 2.2: Quy hoạch động Bitmask (DP Bitmask) 
 #### Tài liệu: 
 - [Bitmask DP](https://usaco.guide/gold/dp-bitmasks?lang=cpp) (USACO Guide)
@@ -563,6 +563,7 @@ Problems| Tags| Editorial
 [D. Igor In the Museum](https://codeforces.com/problemset/problem/598/D)| |
 [A. Knight Tournament](https://codeforces.com/problemset/problem/356/A)| | [code](https://ideone.com/Y5D4bc)
 [CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)| | [code](https://ideone.com/fDfpKC)
+[Tái cấu trúc công ty](https://oj.vnoi.info/problem/dsu_h)| | 
 [G. Path Queries](https://codeforces.com/contest/1213/problem/G)| | [code](https://ideone.com/GbDzIa)
 [Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| | [code](https://ideone.com/TVQLHL)
 [CHỌN ROBOT](https://oj.vnoi.info/problem/pvoi14_2)| |
@@ -685,7 +686,7 @@ Problems| Tags| Editorial
 [D. Tree and Queries](https://codeforces.com/problemset/problem/375/D)| | [code](https://ideone.com/LR1uTW)
 [Klasika](https://oj.uz/problem/view/COCI20_klasika)| | [code](https://ideone.com/rKX1o0)
 [Counting Paths](https://cses.fi/problemset/task/1136)| Update đường đi & Truy vấn 1 đỉnh| [code](https://ideone.com/914uJr)
-[Putovanje](https://oj.uz/problem/view/COCI20_putovanje)| | [code](https://ideone.com/pO98XG)
+[Putovanje](https://oj.uz/problem/view/COCI20_putovanje)| | [code](https://ideone.com/Zce2gg)
 [D. Water Tree](https://codeforces.com/contest/343/problem/D)| | [code](https://ideone.com/udNn0X)
 #### Truy vấn Đường đi: 
 |Problems |Tags |Editorial
@@ -705,13 +706,13 @@ Problems| Tags| Editorial
 [Company Queries II](https://cses.fi/problemset/task/1688)| Tìm LCA | [code](https://ideone.com/fWPm2q)
 [VO 15 Bài 1 - Cây](https://oj.vnoi.info/problem/votree)| | [code](https://ideone.com/EUlUVH)
 [Distance Queries](https://cses.fi/problemset/task/1135)| Tính khoảng cách giữa 2 đỉnh | [code](https://ideone.com/bjpuNn)
-[G - Distance Queries on a Tree](https://atcoder.jp/contests/abc294/tasks/abc294_g)| | [code](https://ideone.com/SUgLms)
+[G - Distance Queries on a Tree](https://atcoder.jp/contests/abc294/tasks/abc294_g)| | [code](https://ideone.com/uX6Q98)
 [F - Colorful Tree](https://atcoder.jp/contests/abc133/tasks/abc133_f)| | [code](https://ideone.com/X4ZYc2)
 [Lubenica](https://oj.vnoi.info/problem/lubenica)| Tìm min/max trên đường đi| [code](https://ideone.com/4zQ5OZ)
 [E. Duff in the Army](https://codeforces.com/contest/588/problem/E)| Mở rộng bài toán trên đường đi | [code](https://ideone.com/JhH4RR)
 [F2. Omsk Metro (hard version)](https://codeforces.com/contest/1843/problem/F2)| | [code](https://ideone.com/639WuS)
 [dynamic LCA](https://oj.vnoi.info/problem/hbtlca)| Re-rooting | [code](https://ideone.com/DgQwlx)
-[E. Jamie and Tree](https://codeforces.com/contest/916/problem/E)| | [code](https://ideone.com/WPKk7u)
+[E. Jamie and Tree](https://codeforces.com/contest/916/problem/E)| | [code](https://ideone.com/gVBY9o)
 
 ### Chương 3: Đường kính của cây
 #### Tài liệu: 
