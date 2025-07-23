@@ -181,7 +181,7 @@ Những OJ để làm bài tập, contest:
 [VM 14 Bài 05 - Quá béo](https://oj.vnoi.info/problem/vmquabeo)| | [code](https://ideone.com/5ZCIhd)
 [[QNOI 2021] Khiêu vũ](https://nbk.homes/problem/qn21dance)| | [code](https://ideone.com/Jx5IIJ)
 [VOI 08 Bài 1 - Trò chơi với dãy số](https://oj.vnoi.info/problem/nksgame)| | [code](https://ideone.com/mCYktm)
-
+[E. Range Deleting](https://codeforces.com/problemset/problem/1167/E)
 ## Phần III: Cấu trúc dữ liệu
 ### Chương 1: set/multiset, map, priority_queue 
 #### Tài liệu: 
@@ -357,11 +357,11 @@ Những OJ để làm bài tập, contest:
 [B. Preparing Olympiad](https://codeforces.com/contest/550/problem/B)| | [code](https://ideone.com/ESsanF)
 [A. LLPS](https://codeforces.com/contest/202/problem/A)| | [code](https://ideone.com/I4f3fQ)
 [Duyên Hải 2021 - Khối 10 - Bài 3 - Mua hàng](https://oj.vnoi.info/problem/dhbb21_buying) (subtask 1)| | [code](https://ideone.com/Q3JEa1)
-[Biểu thức](https://oj.vnoi.info/problem/backtrack_e)| | [code](https://ideone.com/r2c4u8)
-[Chessboard and Queens](https://cses.fi/problemset/task/1624)| | [code](https://ideone.com/G3zzM4)
-[VOI 22 Bài 1 - Chọn cặp](https://oj.vnoi.info/problem/voi22_pair) (subtask 1)| | [code](https://ideone.com/49NgRe)
-[Bể chứa nước](https://oj.vnoi.info/problem/backtrack_c)| | [code](https://ideone.com/dyweYq)
-[Grid Paths](https://cses.fi/problemset/task/1625)| Nhánh cận (Branch and Bound)| [code](https://ideone.com/NHTVk7)
+[Biểu thức](https://oj.vnoi.info/problem/backtrack_e)| | [code](https://ideone.com/FbFLsp)
+[Chessboard and Queens](https://cses.fi/problemset/task/1624)| | [code](https://ideone.com/7zRglI)
+[VOI 22 Bài 1 - Chọn cặp](https://oj.vnoi.info/problem/voi22_pair) (subtask 1)| | [code](https://ideone.com/tSQKI5)
+[Bể chứa nước](https://oj.vnoi.info/problem/backtrack_c)| | [code](https://ideone.com/8ZHDM8)
+[Grid Path Description](https://cses.fi/problemset/task/1625)| Nhánh cận (Branch and Bound)| [code](https://ideone.com/dRSsr1)
 ## Phần V: Quy hoạch động (DP) 
 ### Chương 1: DP General
 #### Tài liệu:
@@ -525,6 +525,7 @@ Problems| Tags| Editorial
 [Bài toán 3-SUM](https://nbk.homes/problem/voi233sum)| |
 [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)| | [code](https://ideone.com/ZzfKS4)
 [[Pre-QNOI 2022#02] Mắt biếc](https://nbk.homes/problem/cwdmatbiec)| | [code](https://ideone.com/mG7T5y)
+[E. Array Shrinking](https://codeforces.com/problemset/problem/1312/E)
 [Empty String](https://cses.fi/problemset/task/1080)| | [code](https://ideone.com/lXIph9)
 [B. Zuma](https://codeforces.com/problemset/problem/607/B)| | [code](https://ideone.com/7Bv0Wm)
 [F - Hammer 2](https://atcoder.jp/contests/abc273/tasks/abc273_f)| | [code](https://ideone.com/h6SSLo)
