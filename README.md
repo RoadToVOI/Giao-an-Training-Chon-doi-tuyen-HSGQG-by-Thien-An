@@ -369,63 +369,62 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)| | [code](https://atcoder.jp/contests/dp/submissions/52517660)
-[Xếp hàng mua vé](https://oj.vnoi.info/problem/nktick)| | [code](https://ideone.com/5hHZy4)
-[D - FG operation](https://atcoder.jp/contests/abc220/tasks/abc220_d)| | [code](https://ideone.com/6JdnH1)
-[D - Flipping Signs](https://atcoder.jp/contests/abc125/tasks/abc125_d)| | [code](https://ideone.com/4Xuq40)
-[Removing Digits](https://cses.fi/problemset/task/1637)| | [code](https://cses.fi/paste/bfa69186a1a66eb1897392/)
-[Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [code](https://cses.fi/paste/b1cad99348e945e18973dd/)
+[C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)| | [code](https://ideone.com/Wmt3qk)
+[Xếp hàng mua vé](https://oj.vnoi.info/problem/nktick)| | [code](https://ideone.com/yYJAqi)
+[D - FG operation](https://atcoder.jp/contests/abc220/tasks/abc220_d)| | [code](https://ideone.com/3gFd5n)
+[D - Flipping Signs](https://atcoder.jp/contests/abc125/tasks/abc125_d)| | [code](https://ideone.com/Q7JkO0)
+[Removing Digits](https://cses.fi/problemset/task/1637)| | [code](https://ideone.com/3ffl5e)
+[Rectangle Cutting](https://cses.fi/problemset/task/1744)| | [code](https://ideone.com/cnrb83)
 [[QNOI 2021] Xâu luân phiên](https://nbk.homes/problem/qn21altstr)| | [code](https://ideone.com/b95DUi)
 [ARITHMETIC PROGRESSION](https://oj.vnoi.info/problem/lem5)| |
 [F - Reordering](https://atcoder.jp/contests/abc234/tasks/abc234_f)| |
+
 #### LIS: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Dãy con tăng dài nhất (bản dễ)](https://oj.vnoi.info/problem/liq)| | [code](https://ideone.com/nY88Fc)
+[Dãy con tăng dài nhất (bản dễ)](https://oj.vnoi.info/problem/liq)| | [code](https://ideone.com/oz2oQR)
 [F - \|LIS\| = 3](https://atcoder.jp/contests/abc237/tasks/abc237_f)
+
 #### Dãy con chung:
 |Problems |Tags |Editorial
 |--|:--:|:--: 
-[F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS | [code](https://ideone.com/MlUIdc)
+[F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)| LCS | [code](https://ideone.com/En9275)
+[Chuỗi đối xứng](https://oj.vnoi.info/problem/nkpalin)| | [code](https://ideone.com/PfLxce)
 [E - Common Subsequence](https://atcoder.jp/contests/abc130/tasks/abc130_e)| Đếm số dãy con chung| [code](https://ideone.com/kq1jym)
 [VOI 14 Bài 2 - Dãy con chung bội hai dài nhất](https://oj.vnoi.info/problem/lcs2x)| LCS có điều kiện | [code](https://ideone.com/TJVdjg)
 
 #### String: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Edit Distance](https://cses.fi/problemset/task/1639)| | [code](https://ideone.com/CoZVES)
-[D - String Bags](https://atcoder.jp/contests/abc344/tasks/abc344_d)| | [code](https://ideone.com/9cd7YE)
+[Edit Distance](https://cses.fi/problemset/task/1639)| | [code](https://ideone.com/KEyU6T)
 [E - Strings of Impurity](https://atcoder.jp/contests/abc138/tasks/abc138_e)| | [code](https://ideone.com/IhAu5O)
 [String Removals](https://cses.fi/problemset/task/1149/)| | [code](https://ideone.com/kOTpGK)
-#### Xâu đối xứng:
-|Problems |Tags |Editorial
-|--|:--:|:--:
-[Chuỗi đối xứng](https://oj.vnoi.info/problem/nkpalin)| | [code](https://ideone.com/ejYPRv)
 
 #### Dãy ngoặc đúng: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[D - Count Bracket Sequences](https://atcoder.jp/conteưsts/abc312/tasks/abc312_d)| | [code](https://atcoder.jp/contests/abc312/submissions/52519082)
+[D - Count Bracket Sequences](https://atcoder.jp/contests/abc312/tasks/abc312_d)| | [code](https://ideone.com/V3oiNV)
 
 #### Knapsack:
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)| | [code](https://atcoder.jp/contests/dp/submissions/52670320)
-[E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)| | [code](https://ideone.com/JbcJ0c)
-[Coin Combinations I](https://cses.fi/problemset/task/1635)| | [code](https://ideone.com/80i06s)
-[Coin Combinations II](https://cses.fi/problemset/task/1636)| | [code](https://ideone.com/uTxuar)
-[M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)| | [code](https://ideone.com/4sM1lH)
-[D - Max Multiple](https://atcoder.jp/contests/abc281/tasks/abc281_d)| | [code](https://ideone.com/0oKOtg)
-[D - I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)| | [code](https://atcoder.jp/contests/abc262/submissions/52671375)
+[D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)| | [code](https://ideone.com/WOMoQT)
+[E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)| | [code](https://ideone.com/jr8YKn)
+[Coin Combinations I](https://cses.fi/problemset/task/1635)| | [code](https://ideone.com/YGgSzJ)
+[Coin Combinations II](https://cses.fi/problemset/task/1636)| | [code](https://ideone.com/zG3r4g)
+[D - Max Multiple](https://atcoder.jp/contests/abc281/tasks/abc281_d)| | [code](https://ideone.com/Eg7Vj3)
+[D - I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)| | [code](https://ideone.com/yMAwyG)
+[M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)| | [code](https://ideone.com/iB2LO3)
 
 #### Đường đi trên lưới: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Grid Paths](https://cses.fi/problemset/task/1638)|| [code](https://cses.fi/paste/7998916af42956188973b6/)
-[Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | | [code](https://ideone.com/VJy6g8)
+[Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | | [code](https://ideone.com/1hJmxp)
 [E - Queen on Grid](https://atcoder.jp/contests/abc183/tasks/abc183_e)| DP x Prefix Sum| [code](https://ideone.com/AFqrDH)
-[E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)| | [code](https://ideone.com/00bf79)
-[E - Warp](https://atcoder.jp/contests/abc265/tasks/abc265_e)| | [code](https://ideone.com/TwfvVV)
+[E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)| | [code](https://ideone.com/GtGD4b)
+[E - Warp](https://atcoder.jp/contests/abc265/tasks/abc265_e)| | [code](https://ideone.com/GP1O2f)
+[Minimal Grid Path](https://cses.fi/problemset/task/3359)| |
 [Olympic 30/4 2019 - Khối 10 - Bài 3 - Kinh nghiệm](https://lqdoj.edu.vn/problem/twopaths)| Đường đi trên lưới với 2 người| [code](https://ideone.com/w7mvZ0)
 #### Prefix Sum 2D: 
 |Problems |Tags |Editorial
@@ -521,15 +520,15 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 Problems| Tags| Editorial
 |--|:--:|:--:
-[H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| | [code](https://ideone.com/Q0QjEl)
-[Bài toán 3-SUM](https://nbk.homes/problem/voi233sum)| |
-[N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)| | [code](https://ideone.com/ZzfKS4)
-[[Pre-QNOI 2022#02] Mắt biếc](https://nbk.homes/problem/cwdmatbiec)| | [code](https://ideone.com/mG7T5y)
-[E. Array Shrinking](https://codeforces.com/problemset/problem/1312/E)
-[Empty String](https://cses.fi/problemset/task/1080)| | [code](https://ideone.com/lXIph9)
-[B. Zuma](https://codeforces.com/problemset/problem/607/B)| | [code](https://ideone.com/7Bv0Wm)
-[F - Hammer 2](https://atcoder.jp/contests/abc273/tasks/abc273_f)| | [code](https://ideone.com/h6SSLo)
-[Knuth Division](https://cses.fi/problemset/task/2088)| Knuth's Optimization | [code](https://ideone.com/iNUh48)
+[H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| | [code](https://ideone.com/YV7pHu)
+[Bài toán 3-SUM](https://nbk.homes/problem/voi233sum)| | [code](https://ideone.com/Hjbt3s)
+[N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)| | [code](https://ideone.com/JeTpMJ)
+[[Pre-QNOI 2022#02] Mắt biếc](https://nbk.homes/problem/cwdmatbiec)| | [code](https://ideone.com/S9c59l)
+[E. Array Shrinking](https://codeforces.com/problemset/problem/1312/E)| | [code](https://ideone.com/myi7Gr)
+[Empty String](https://cses.fi/problemset/task/1080)| | [code](https://ideone.com/2pSkDD)
+[B. Zuma](https://codeforces.com/problemset/problem/607/B)| | [code](https://ideone.com/umL4a7)
+[F - Hammer 2](https://atcoder.jp/contests/abc273/tasks/abc273_f)| | [code](https://ideone.com/1x8oU3)
+[Knuth Division](https://cses.fi/problemset/task/2088)| Knuth's Optimization | [code](https://ideone.com/0MFqYN)
 
 ## Phần VI: Đồ thị (Graphs)
 ### Chương 1: Duyệt đồ thị (DFS / BFS)
