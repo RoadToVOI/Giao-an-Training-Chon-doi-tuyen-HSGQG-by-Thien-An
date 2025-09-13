@@ -312,7 +312,7 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Beautiful Subgrids](https://cses.fi/problemset/task/2137)| | [code](https://ideone.com/2FDKjf)
+[Corner Subgrid Count](https://cses.fi/problemset/task/2137)| | [code](https://ideone.com/2FDKjf)
 [G - Triangle](https://atcoder.jp/contests/abc258/tasks/abc258_g)| | [code](https://ideone.com/z9yytE)
 [School Excursion](https://cses.fi/problemset/task/1706)| | [code](https://ideone.com/9GuMrO)
 [Reachable Nodes](https://cses.fi/problemset/task/2138)| | [code](https://ideone.com/vrGRZn)
@@ -419,8 +419,8 @@ Những OJ để làm bài tập, contest:
 #### Đường đi trên lưới: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Grid Paths](https://cses.fi/problemset/task/1638)|| [code](https://cses.fi/paste/7998916af42956188973b6/)
-[Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | | [code](https://ideone.com/1hJmxp)
+[Grid Paths I](https://cses.fi/problemset/task/1638)|| [code](https://ideone.com/KnYW3G)
+[Đường đi có tổng lớn nhất](https://oj.vnoi.info/problem/qbmax) | | [code](https://ideone.com/xikQmC)
 [E - Queen on Grid](https://atcoder.jp/contests/abc183/tasks/abc183_e)| DP x Prefix Sum| [code](https://ideone.com/AFqrDH)
 [E - Rook Path](https://atcoder.jp/contests/abc232/tasks/abc232_e)| | [code](https://ideone.com/GtGD4b)
 [E - Warp](https://atcoder.jp/contests/abc265/tasks/abc265_e)| | [code](https://ideone.com/GP1O2f)
@@ -429,15 +429,15 @@ Những OJ để làm bài tập, contest:
 #### Prefix Sum 2D: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[VOI 11 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/bonus)| | [code](https://ideone.com/63KEem)
+[VOI 11 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/bonus)| | [code](https://ideone.com/oPhkSr)
 [VOI 15 Bài 4 - Cắt hình](https://oj.vnoi.info/problem/mincut)| | [code](https://ideone.com/BVAZvm)
-[Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| | [code](https://ideone.com/ZX0pOR)
-[VOI 19 Bài 1 - Năng lượng mặt trời](https://oj.vnoi.info/problem/voi19_solpin)| | 
+[Siêu thị (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3d)| | [code](https://ideone.com/MuOLRd)
+[VOI 19 Bài 1 - Năng lượng mặt trời](https://oj.vnoi.info/problem/voi19_solpin)| | [code](https://ideone.com/pBsJDV)
 #### Lý thuyết trò chơi: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k)| |
-[Removal Game](https://cses.fi/problemset/task/1097)| |
+[K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k)| | [code](https://ideone.com/L2PWBD)
+[Removal Game](https://cses.fi/problemset/task/1097)| | [code](https://ideone.com/ANwioG)
 #### Sort x DP: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -520,15 +520,15 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 Problems| Tags| Editorial
 |--|:--:|:--:
-[H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| | [code](https://ideone.com/YV7pHu)
-[Bài toán 3-SUM](https://nbk.homes/problem/voi233sum)| | [code](https://ideone.com/Hjbt3s)
-[N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)| | [code](https://ideone.com/JeTpMJ)
+[H. Queries for Number of Palindromes](https://codeforces.com/contest/245/problem/H)| | [code](https://ideone.com/htI49S)
+[Bài toán 3-SUM](https://nbk.homes/problem/voi233sum)| | [code](https://ideone.com/w1MYhv)
+[N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)| | [code](https://ideone.com/6PDqqY)
 [[Pre-QNOI 2022#02] Mắt biếc](https://nbk.homes/problem/cwdmatbiec)| | [code](https://ideone.com/S9c59l)
 [E. Array Shrinking](https://codeforces.com/problemset/problem/1312/E)| | [code](https://ideone.com/myi7Gr)
-[Empty String](https://cses.fi/problemset/task/1080)| | [code](https://ideone.com/2pSkDD)
-[B. Zuma](https://codeforces.com/problemset/problem/607/B)| | [code](https://ideone.com/umL4a7)
+[Empty String](https://cses.fi/problemset/task/1080)| | [code](https://ideone.com/CHa1o2)
+[B. Zuma](https://codeforces.com/problemset/problem/607/B)| | [code](https://ideone.com/KyQnrA)
 [F - Hammer 2](https://atcoder.jp/contests/abc273/tasks/abc273_f)| | [code](https://ideone.com/1x8oU3)
-[Knuth Division](https://cses.fi/problemset/task/2088)| Knuth's Optimization | [code](https://ideone.com/0MFqYN)
+[Knuth Division](https://cses.fi/problemset/task/2088)| Knuth's Optimization | [code](https://ideone.com/r9BCbx)
 
 ## Phần VI: Đồ thị (Graphs)
 ### Chương 1: Duyệt đồ thị (DFS / BFS)
