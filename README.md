@@ -464,27 +464,27 @@ Những OJ để làm bài tập, contest:
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--: 
-[VOI 23 Bài 4 - Nhà gỗ](https://oj.vnoi.info/problem/voi23_whome)| | [code](https://ideone.com/h7JFre)
-[Cô gái chăn bò](https://oj.vnoi.info/problem/cowgirl)| | [code](https://ideone.com/brIA6Z)
-[C. Square Subsets](https://codeforces.com/problemset/problem/895/C)| | [code](https://ideone.com/wo4N3u)
-[B. Little Pony and Harmony Chest](https://codeforces.com/problemset/problem/453/B)| | [code](https://ideone.com/1qffma)
-[VOI 16 Bài 1 - SEQ198](https://oj.vnoi.info/problem/seq198)| | [code](https://ideone.com/2feM1z)
+[VOI 23 Bài 4 - Nhà gỗ](https://oj.vnoi.info/problem/voi23_whome)| | [code](https://ideone.com/CN9JWA)
+[Cô gái chăn bò](https://oj.vnoi.info/problem/cowgirl)| | [code](https://ideone.com/DNVPDQ)
+[C. Square Subsets](https://codeforces.com/problemset/problem/895/C)| | [code](https://ideone.com/rJOhFa)
+[B. Little Pony and Harmony Chest](https://codeforces.com/problemset/problem/453/B)| | [code](https://ideone.com/fMDbWB)
+[VOI 16 Bài 1 - SEQ198](https://oj.vnoi.info/problem/seq198)| | [code](https://ideone.com/E1ogWc)
 #### Tối ưu duyệt hoán vị: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[TRIP](https://oj.vnoi.info/problem/lem3)| | [code](https://ideone.com/Q00vUd)
-[Hamiltonian Flights](https://cses.fi/problemset/task/1690)| | [code](https://ideone.com/8weBUf)
-[O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o)| | [code](https://ideone.com/xzK2Ef)
-[Elevator Rides](https://cses.fi/problemset/task/1653)| | [code](https://ideone.com/bjhv7H)
-[D. A Simple Task](https://codeforces.com/contest/11/problem/D)| | [code](https://ideone.com/fc2l9Y)
-[E. Keyboard Purchase](https://codeforces.com/contest/1238/problem/E)| | [code](https://ideone.com/G2NOwB)
-[F. Elongated Matrix](https://codeforces.com/contest/1102/problem/F)| | [code](https://ideone.com/gps4ri)
+[TRIP](https://oj.vnoi.info/problem/lem3)| | [code](https://ideone.com/PxA2lH)
+[Hamiltonian Flights](https://cses.fi/problemset/task/1690)| | [code](https://ideone.com/36b2sL)
+[O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o)| | [code](https://ideone.com/wQUskN)
+[Elevator Rides](https://cses.fi/problemset/task/1653)| | [code](https://ideone.com/oqKVbS)
+[D. A Simple Task](https://codeforces.com/contest/11/problem/D)| | [code](https://ideone.com/KEhc2a)
+[E. Keyboard Purchase](https://codeforces.com/contest/1238/problem/E)| | [code](https://ideone.com/SYcvZf)
+[F. Elongated Matrix](https://codeforces.com/contest/1102/problem/F)| | [code](https://ideone.com/ovFaJt)
 [F - Simple Operations on Sequence](https://atcoder.jp/contests/abc232/tasks/abc232_f)
 #### Chia nhóm: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f)| | [code](https://ideone.com/Fp3jIR)
-[U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)| | [code](https://ideone.com/bj5xs8)
+[F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f)| | [code](https://ideone.com/wijzvh)
+[U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)| | [code](https://ideone.com/haoVK3)
 
 ### Chương 3: Quy hoạch động chữ số (DP Digit)
 #### Tài liệu: 
@@ -525,7 +525,7 @@ Problems| Tags| Editorial
 [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)| | [code](https://ideone.com/6PDqqY)
 [[Pre-QNOI 2022#02] Mắt biếc](https://nbk.homes/problem/cwdmatbiec)| | [code](https://ideone.com/S9c59l)
 [E. Array Shrinking](https://codeforces.com/problemset/problem/1312/E)| | [code](https://ideone.com/myi7Gr)
-[Empty String](https://cses.fi/problemset/task/1080)| | [code](https://ideone.com/CHa1o2)
+[Empty String](https://cses.fi/problemset/task/1080)| | [code](https://ideone.com/Xe3WDF)
 [B. Zuma](https://codeforces.com/problemset/problem/607/B)| | [code](https://ideone.com/KyQnrA)
 [F - Hammer 2](https://atcoder.jp/contests/abc273/tasks/abc273_f)| | [code](https://ideone.com/1x8oU3)
 [Knuth Division](https://cses.fi/problemset/task/2088)| Knuth's Optimization | [code](https://ideone.com/r9BCbx)
