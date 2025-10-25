@@ -87,6 +87,7 @@ Những OJ để làm bài tập, contest:
 [Nguyên Tố Cùng Nhau](https://lqdoj.edu.vn/problem/23on2c22)| |
 [Số nguyên tố (OLP 10 - 2019)](https://lqdoj.edu.vn/problem/primecount) | Sàng trên đoạn | [code](https://ideone.com/Rgn0Vg)
 [[QNOI 2016] K-factor](https://nbk.homes/problem/qn16kfactor) | | [code](https://ideone.com/2Wd6BG)
+[Next Prime](https://cses.fi/problemset/task/3396)| Brute force |  
 [[QNOI 2017] Bảng nguyên tố](https://nbk.homes/problem/qn17mprime)| Brute force x Sàng | [code](https://ideone.com/TZVJJ9)
 [D - Not Divisible](https://atcoder.jp/contests/abc170/tasks/abc170_d) | Đếm | [code](https://ideone.com/wv6Utl)
 [D - Index Trio](https://atcoder.jp/contests/abc249/tasks/abc249_d) | | [code](https://ideone.com/GdhMnc)
@@ -116,7 +117,7 @@ Những OJ để làm bài tập, contest:
 [D - Binomial Coefficients](https://atcoder.jp/contests/abc094/tasks/arc095_b)| | [code](https://atcoder.jp/contests/abc094/submissions/52146163)
 [E - Max-Min Sums](https://atcoder.jp/contests/abc151/tasks/abc151_e)| | [code](https://atcoder.jp/contests/abc151/submissions/52157137)
 
-### Chương 4: Bao hàm loại trừ
+### Chương 4: Bao hàm loại trừ {#Bao-ham-loai-tru}
 #### Tài liệu:
 - [The Inclusion-Exclusion Principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html) (cp-algorithms)
 #### Bài tập: 
@@ -125,7 +126,6 @@ Những OJ để làm bài tập, contest:
 [Prime Multiples](https://cses.fi/problemset/task/2185)| |
 [Counting Coprime Pairs](https://cses.fi/problemset/task/2417)| |
 [E - Sum of gcd of Tuples (Hard)](https://atcoder.jp/contests/abc162/tasks/abc162_e)| |
-[VOI 18 Bài 4 - Phần thưởng](https://oj.vnoi.info/problem/voi18_bonus)| |
 [Grid Paths](https://cses.fi/problemset/task/1078)| |
 [Christmas Party](https://cses.fi/problemset/task/1717)| |
 [Counting Sequences](https://cses.fi/problemset/task/2228)| |
@@ -223,50 +223,68 @@ Những OJ để làm bài tập, contest:
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Dãy nghịch thế](https://oj.vnoi.info/problem/nkinv)| Đếm số nghịch thế| [code](https://ideone.com/t16pJ5)
-[INCSEQ VN](https://oj.vnoi.info/problem/incvn)| LIS optimization | [code](https://ideone.com/mhdbzL)
-[Dãy con tăng dài nhất (bản khó)](https://oj.vnoi.info/problem/lis)| | [code](https://ideone.com/WVXktx)
-[Increasing Subsequence II](https://cses.fi/problemset/task/1748/)| | [code](https://ideone.com/0ufJZ2)
+[Dãy con tăng dài nhất (bản khó)](https://oj.vnoi.info/problem/lis)| Tối ưu DP LIS| [code](https://ideone.com/WVXktx)
+[INCSEQ VN](https://oj.vnoi.info/problem/incvn)|  | [code](https://ideone.com/mhdbzL)
+[HMLIS - HowManyLis](https://www.spoj.com/problems/HMLIS/)| |
 [Nested Ranges Count](https://cses.fi/problemset/task/2169)| |[code](https://ideone.com/EwqKWM)
 [D. Ball](https://codeforces.com/contest/12/problem/D)| | [code](https://ideone.com/5cSgG4)
-[E - LEQ](https://atcoder.jp/contests/abc221/tasks/abc221_e)| | [code](https://ideone.com/ibBmvB)
+[Dãy con chung dài nhất (new ver)](https://oj.vnoi.info/problem/lqdgonme)| Đưa bài toán LCS về LIS| 
+[Dãy con chung hoán vị](https://lqdoj.edu.vn/problem/lcsperm)| |
+[E - LEQ](https://atcoder.jp/contests/abc221/tasks/abc221_e)| BIT x Tổ hợp | [code](https://ideone.com/ibBmvB)
 [List Removals](https://cses.fi/problemset/task/1749/)| Ordered Set Implementation| [code](https://ideone.com/PV9Mut)
-[Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT x Prefix Sum|  [code](https://ideone.com/2CS8w5)
-[Salary Queries](https://cses.fi/problemset/task/1144/)| BIT x Nén số| [code](https://ideone.com/wVOedy)
 [D-query](https://oj.vnoi.info/problem/dquery)| Distinct Value Queries | [code](https://ideone.com/PUZYgc)
-[Khoảng cách](https://lqdoj.edu.vn/problem/dist2021)| Binary Search x Two Pointers x BIT | [code](https://ideone.com/xqQJZs)
-[VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search x Prefix Sum x DP Optimization using BIT| [code](https://ideone.com/hIKz18)
+[Khoảng cách](https://lqdoj.edu.vn/problem/dist2021)| Binary Search x Two Pointers x BIT | [code](https://ideone.com/buRGQM)
+[Dãy số](https://oj.vnoi.info/problem/c11seq)| BIT x Prefix Sum|  [code](https://ideone.com/C3SWtm)
+[VOI 05 Bài 1 - Phân đoạn](https://oj.vnoi.info/problem/qbsegpar)| Binary Search x Prefix Sum x DP Optimization using BIT| [code](https://ideone.com/4x2NQK)
 
 ### Chương 4: Cây phân đoạn (Segment Tree)
 #### Tài liệu:
 - [Cây Phân Đoạn (cơ bản)](https://wiki.vnoi.info/vi/algo/data-structures/segment-tree-basic) (VNOI Wiki)
 - [Tất tần tật về Cây Phân Đoạn (Segment Tree)](https://wiki.vnoi.info/vi/algo/data-structures/segment-tree-extend) (VNOI Wiki)
 - [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html) (cp-algorithms)
+- [Offline Deletion](https://usaco.guide/adv/offline-del) (USACO Guide)
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[ITEZ2](https://oj.vnoi.info/problem/segtree_itez2)| | [code](https://ideone.com/cgxXdY)
-[Pizzeria Queries](https://cses.fi/problemset/task/2206)| | [code](https://ideone.com/J92VF8)
+[ITEZ2](https://oj.vnoi.info/problem/segtree_itez2)| | [code](https://ideone.com/T7FRg3)
+[Pizzeria Queries](https://cses.fi/problemset/task/2206)| | [code](https://ideone.com/j4aoxk)
 [Prefix Sum Queries](https://cses.fi/problemset/task/2166)| | [code](https://ideone.com/dPIVPd)
-[Hotel Queries](https://cses.fi/problemset/task/1143/)| Walking on Segment Tree| [code](https://ideone.com/Qjll9n)
+[Hotel Queries](https://cses.fi/problemset/task/1143/)| Walking on Segment Tree| [code](https://ideone.com/Dj6cuL)
+[H: Painting competition](https://oj.vnoi.info/problem/icpc24_mt_h)| | 
 [K-query](https://oj.vnoi.info/problem/kquery)| MergeSort Tree (vector)| [code](https://ideone.com/vUoA8N)
 [ITDS1](https://oj.vnoi.info/problem/segtree_itds1)| MergeSort Tree (multiset)| [code](https://ideone.com/aAdRhD)
 [ITMIX](https://oj.vnoi.info/problem/segtree_itmix)| Truy vấn hỗn hợp| [code](https://ideone.com/tWZJQO)
 [Polynomial Queries](https://cses.fi/problemset/task/1736)| Truy vấn Update bậc thang| [code](https://ideone.com/ebnUyL)
-[Subarray Sum Queries](https://cses.fi/problemset/task/1190)| Truy vấn Đoạn con có tổng lớn nhất| [code](https://ideone.com/hlRmYp)
-[Sereja and Brackets](https://codeforces.com/contest/380/problem/C)| Truy vấn Dãy ngoặc đúng| [code](https://ideone.com/NIhNtG)
-[Bit Inversions](https://cses.fi/problemset/task/1188/)| Truy vấn Đoạn con dài nhất chỉ chứa 1 bit| [code](https://ideone.com/M9OccU)
-[F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| Segment Tree x Brute force| [code](https://ideone.com/rlJvuX)
-[E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| Counting Sort x Segment Tree| [code](https://ideone.com/IWO2Pv)
-[E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| Bitmask x Segment Tree | [code](https://ideone.com/LBKkLc) 
+[Subarray Sum Queries](https://cses.fi/problemset/task/1190)| Truy vấn Đoạn con có tổng lớn nhất| [code](https://ideone.com/Tu38Vg)
+[Subarray Sum Queries II](https://cses.fi/problemset/task/3226)| | [code](https://ideone.com/KvYraT)
+[Sereja and Brackets](https://codeforces.com/contest/380/problem/C)| Truy vấn Dãy ngoặc đúng| [code](https://ideone.com/bQByBg)
+[Bit Inversions](https://cses.fi/problemset/task/1188/)| Truy vấn Đoạn con dài nhất chỉ chứa 1 bit| [code](https://ideone.com/gy4Yxf)
+[F. SUM and REPLACE](https://codeforces.com/contest/920/problem/F)| Segment Tree x Brute force| [code](https://ideone.com/laAy8K)
+[E. A Simple Task](https://codeforces.com/problemset/problem/558/E)| Counting Sort x Segment Tree| [code](https://ideone.com/OE38CG)
+[E. XOR on Segment](https://codeforces.com/problemset/problem/242/E)| Bitmask x Segment Tree | [code](https://ideone.com/RqLoby)
+[Distinct Values Queries II](https://cses.fi/problemset/task/3356)| |
+[F. MEX Queries](https://codeforces.com/contest/817/problem/F)| |
 [G. Mass Change Queries](https://codeforces.com/contest/911/problem/G)| |
+[Dynamic Connectivity](https://cses.fi/problemset/task/2133)| |
 #### DP x Segment Tree: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [ITMED](https://oj.vnoi.info/problem/segtree_itmed)| DP Optimization| [code](https://www.ideone.com/OVGjhc)
 [E. Domino Principle](https://codeforces.com/contest/56/problem/E)| DP Optimization | [code](https://ideone.com/HrZ3Nv)
-[Tôi yêu tổ hợp](https://lqdoj.edu.vn/problem/ilovecombinatorics)| Precompute x DP| [code](https://ideone.com/l9K0kG)
+[Tôi yêu tổ hợp](https://lqdoj.edu.vn/problem/ilovecombinatorics)| Precompute x DP| [code](https://ideone.com/icpaJl)
 
-### Chương 5: Chia căn x Thuật toán Mo (Sqrt Decomposition x Mo's Algorithm)
+### Chương 5: Persistent Segment Tree
+#### Tài liệu:
+- [Persistent Data Structures](https://usaco.guide/adv/persistent?lang=cpp) (USACO Guide)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+[Range Queries and Copies](https://cses.fi/problemset/task/1737)| | [code](https://ideone.com/EgLUdD)
+[C. Till I Collapse](https://codeforces.com/problemset/problem/786/C)| | [code](https://ideone.com/14aBVC)
+[COT - Count on a tree](https://www.spoj.com/problems/COT/)| | [code](https://ideone.com/wPvKRd)
+[G. Functions On The Segments](https://codeforces.com/contest/837/problem/G) | | [code](https://ideone.com/RDO259)
+[E. Sign on Fence](https://codeforces.com/problemset/problem/484/E)| | [code](https://ideone.com/Egm2Bt)
+### Chương 6: Chia căn x Thuật toán Mo (Sqrt Decomposition x Mo's Algorithm)
 #### Tài liệu:
 - [Sqrt Decomposition](https://cp-algorithms.com/data_structures/sqrt_decomposition.html) (cp-algorithms)
 - [Square Root Decomposition](https://usaco.guide/plat/sqrt?lang=cpp) (USACO Guide)
@@ -286,7 +304,7 @@ Những OJ để làm bài tập, contest:
 [E. XOR and Favorite Number](https://codeforces.com/problemset/problem/617/E)| | [code](https://ideone.com/nymn1o)
 [G - Cubic?](https://atcoder.jp/contests/abc238/tasks/abc238_g)| | [code](https://ideone.com/IZlseA)
 
-### Chương 6: Sparse Table x Binary Lifting
+### Chương 7: Sparse Table x Binary Lifting
 #### Tài liệu:
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html) (cp-algorithms)
 #### Bài tập: 
@@ -305,7 +323,7 @@ Những OJ để làm bài tập, contest:
 [Movie Festival Queries](https://cses.fi/problemset/task/1664)| | [code](https://ideone.com/eOcntW)
 [Increasing Array Queries](https://cses.fi/problemset/task/2416)| | [code](https://ideone.com/IsGYaa)
 
-### Chương 7: Bitset
+### Chương 8: Bitset
 #### Tài liệu:
 - [Bitsets](https://usaco.guide/plat/bitsets?lang=cpp) (USACO Guide)
 - [Bitwise operations 2 — popcount & bitsets](https://codeforces.com/blog/entry/73558) (blog Codeforces)
@@ -318,7 +336,7 @@ Những OJ để làm bài tập, contest:
 [Reachable Nodes](https://cses.fi/problemset/task/2138)| | [code](https://ideone.com/vrGRZn)
 [Reachability Queries](https://cses.fi/problemset/task/2143)| | [code](https://ideone.com/Etm75b)
 
-### Chương 8: Stack & Deque
+### Chương 9: Stack & Deque
 #### Tài liệu:
 - [Stacks](https://usaco.guide/gold/stacks?lang=cpp) (USACO Guide)
 - [Minimum stack / Minimum queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html) (cp-algorithms)
@@ -345,7 +363,7 @@ Những OJ để làm bài tập, contest:
 [Maximum Subarray Sum II](https://cses.fi/problemset/task/1644)| | [code](https://ideone.com/zJ0anW)
 [Thằng bờm và Phú ông](https://lqdoj.edu.vn/problem/bottles)| | [code](https://ideone.com/gWMq29)
 
-## Phần IV: Quay lui, Vét cạn
+## Phần IV: Quay lui, Vét cạn, Chia để trị
 ### Chương 1: Quay lui, vét cạn (Backtracking)
 #### Tài liệu: 
 - DFS
@@ -362,6 +380,19 @@ Những OJ để làm bài tập, contest:
 [VOI 22 Bài 1 - Chọn cặp](https://oj.vnoi.info/problem/voi22_pair) (subtask 1)| | [code](https://ideone.com/tSQKI5)
 [Bể chứa nước](https://oj.vnoi.info/problem/backtrack_c)| | [code](https://ideone.com/8ZHDM8)
 [Grid Path Description](https://cses.fi/problemset/task/1625)| Nhánh cận (Branch and Bound)| [code](https://ideone.com/dRSsr1)
+
+### Chương 2: Chia để trị (Divide and Conquer)
+#### Tài liệu: 
+- [Chia để trị (Divide and Conquer)](https://wiki.vnoi.info/vi/algo/basic/divide-and-conquer) (VNOI Wiki)
+- [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html) (cp-algorithms)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+
+#### DP Chia để trị: 
+|Problems |Tags |Editorial
+|--|:--:|:--:
+
 ## Phần V: Quy hoạch động (DP) 
 ### Chương 1: DP General
 #### Tài liệu:
@@ -486,6 +517,19 @@ Những OJ để làm bài tập, contest:
 [F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f)| | [code](https://ideone.com/wijzvh)
 [U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)| | [code](https://ideone.com/haoVK3)
 
+### Chương 2.3: Quy hoạch động SOS (DP SOS) 
+#### Tài liệu: 
+- [Bao hàm loại trừ (Phần I - Chương 4)](#Bao-ham-loai-tru)
+- [DP Sum over Subsets (DP SoS), phần 1](https://wiki.vnoi.info/algo/dp/dp-sos-1) (VNOI Wiki)
+#### Bài tập: 
+|Problems |Tags |Editorial
+|--|:--:|:--: 
+[SOS Bit Problem](https://cses.fi/problemset/task/1654)| | [code](https://ideone.com/lvj0m4)
+[VOI 21 Bài 3 - Phép toán OR](https://oj.vnoi.info/problem/voi21_or)| | [code](https://ideone.com/OgoKqY)
+[And Subset Count](https://cses.fi/problemset/task/3141)| | [code](https://ideone.com/eOB7Rh)
+[F. Bits And Pieces](https://codeforces.com/contest/1208/problem/F)| | [code](https://ideone.com/EXr8K8)
+[G. Subsequences Galore](https://codeforces.com/problemset/problem/1620/G)| | [code](https://ideone.com/z3yAB5)
+[Snake Escaping](https://oj.uz/problem/view/JOI18_snake_escaping)| | [code](https://ideone.com/AVHmyY)
 ### Chương 3: Quy hoạch động chữ số (DP Digit)
 #### Tài liệu: 
 - [Digit DP](https://usaco.guide/gold/digit-dp?lang=cpp) (USACO Guide)
@@ -612,7 +656,6 @@ Problems| Tags| Editorial
 [Flight Routes](https://cses.fi/problemset/task/1196)| | [code](https://ideone.com/sgzawB)
 [Vé xe miễn phí](https://oj.vnoi.info/problem/dhfrbus)| | [code](https://ideone.com/hGAxbe)
 [E. Minimum Path](https://codeforces.com/contest/1473/problem/e)| |
-[VOI 17 Bài 4 - Tàu điện ngầm](https://oj.vnoi.info/problem/voi17_metro)| | [code](https://ideone.com/TDnBFB)
 [ELEVATOR II](https://oj.vnoi.info/problem/mele2)| | [code](https://ideone.com/lcDeK4)
 [Investigation](https://cses.fi/problemset/task/1202)| Đồ thị đường đi ngắn nhất| [code](https://ideone.com/ALnn0r)
 [Visiting Cities](https://cses.fi/problemset/task/1203)| | [code](https://ideone.com/oJFHVH)
@@ -805,10 +848,30 @@ Problems| Tags| Editorial
 [VO 16 Bài 2 - XOR dãy số](https://oj.vnoi.info/problem/voxor)| | [code](https://ideone.com/AEwnLc)
 [Maximum Xor Subarray](https://cses.fi/problemset/task/1655)| | [code](https://ideone.com/Nm6Lc5)
 [KXOR](https://oj.vnoi.info/problem/trie_kxor)| | [code](https://ideone.com/wlKPs9)
+[D. Vitya and Strange Lesson](https://codeforces.com/contest/842/problem/D)| |
 
 ### Chương 3: KMP
+#### Tài liệu:
+- [Prefix function. Knuth–Morris–Pratt algorithm](https://cp-algorithms.com/string/prefix-function.html) (cp-algorithms)
+- [Thuật toán KMP](https://wiki.vnoi.info/algo/string/kmp) (VNOI Wiki)
 #### Bài tập: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
 [Required Substring](https://cses.fi/problemset/task/1112)| |
 [B. Lucky Common Subsequence](https://codeforces.com/problemset/problem/346/B)| |
+
+### Chương 4: Aho-Corasick
+#### Tài liệu:
+- [Aho-Corasick algorithm](https://cp-algorithms.com/string/aho_corasick.html) (cp-algorithms)
+- [Aho-Corasick](https://wiki.vnoi.info/algo/string/aho-corasick) (VNOI Wiki)
+#### Bài tập:
+|Problems |Tags |Editorial
+|--|:--:|:--:
+
+### Chương 5: Suffix Array
+#### Tài liệu: 
+- [Suffix Array](https://cp-algorithms.com/string/suffix-array.html) (cp-algorithms)
+- [Mảng hậu tố (Suffix Array)](https://wiki.vnoi.info/algo/string/suffix-array) (VNOI Wiki)
+#### Bài tập:
+|Problems |Tags |Editorial
+|--|:--:|:--:
