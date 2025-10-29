@@ -125,6 +125,7 @@ Những OJ để làm bài tập, contest:
 |--|:--:|:--:
 [Prime Multiples](https://cses.fi/problemset/task/2185)| |
 [Counting Coprime Pairs](https://cses.fi/problemset/task/2417)| |
+[VOI 18 Bài 4 - Phần thưởng](https://oj.vnoi.info/problem/voi18_bonus)| |
 [E - Sum of gcd of Tuples (Hard)](https://atcoder.jp/contests/abc162/tasks/abc162_e)| |
 [Grid Paths](https://cses.fi/problemset/task/1078)| |
 [Christmas Party](https://cses.fi/problemset/task/1717)| |
@@ -311,17 +312,17 @@ Những OJ để làm bài tập, contest:
 #### Sparse Table: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Nearest Smaller Values](https://cses.fi/problemset/task/1645)| | [code](https://ideone.com/yQXbjn)
-[D. CGCDSSQ](https://codeforces.com/contest/475/problem/D)| | [code](https://ideone.com/jSoxKT)
+[Nearest Smaller Values](https://cses.fi/problemset/task/1645)| | [code](https://ideone.com/HKBUsX)
+[D. CGCDSSQ](https://codeforces.com/contest/475/problem/D)| | [code](https://ideone.com/5Wkx3X)
 
 #### Binary Lifting: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Planets Queries I](https://cses.fi/problemset/task/1750)| | [code](https://ideone.com/6bHBzp)
+[Planets Queries I](https://cses.fi/problemset/task/1750)| | [code](https://ideone.com/osEPF6)
 [E - Permute K times](https://atcoder.jp/contests/abc367/tasks/abc367_e)| | [code](https://ideone.com/491UMU)
-[Cyclic Array](https://cses.fi/problemset/task/1191/)| | [code](https://ideone.com/Mu0Rhu)
-[Movie Festival Queries](https://cses.fi/problemset/task/1664)| | [code](https://ideone.com/eOcntW)
-[Increasing Array Queries](https://cses.fi/problemset/task/2416)| | [code](https://ideone.com/IsGYaa)
+[Cyclic Array](https://cses.fi/problemset/task/1191/)| | [code](https://ideone.com/kAcxr7)
+[Movie Festival Queries](https://cses.fi/problemset/task/1664)| | [code](https://ideone.com/xXNjYp)
+[Increasing Array Queries](https://cses.fi/problemset/task/2416)| | [code](https://ideone.com/zbo6As)
 
 ### Chương 8: Bitset
 #### Tài liệu:
@@ -346,7 +347,7 @@ Những OJ để làm bài tập, contest:
 #### Stack: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
-[Nearest Smaller Values](https://cses.fi/problemset/task/1645)| | [code](https://ideone.com/NGYIc5)
+[Nearest Smaller Values](https://cses.fi/problemset/task/1645)| | [code](https://ideone.com/w0Dxms)
 [Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)| | [code](https://ideone.com/JDiGy2)
 [B. Mike and Feet](https://codeforces.com/problemset/problem/547/B)| | [code](https://ideone.com/1oUwIC)
 [Đoạn hai đầu](https://lqdoj.edu.vn/problem/olp3sldoublehead)| | [code](https://ideone.com/Y47UAm)
@@ -556,7 +557,7 @@ Những OJ để làm bài tập, contest:
 [D. Little Girl and Maximum XOR](https://codeforces.com/contest/276/problem/D)| | [code](https://ideone.com/lVqBBU)
 [F - Nim](https://atcoder.jp/contests/abc317/tasks/abc317_f)| | [code](https://ideone.com/uX7gmj)
 [ICPC 2021 miền Bắc - E: Special Number](https://oj.vnoi.info/problem/icpc21_mb_e)| | [code](https://ideone.com/NTxeNc)
-
+[CyberFFT](https://oj.vnoi.info/problem/icpc25_mb_i)| |
 ### Chương 4: Quy hoạch động Đoạn (DP Range)
 #### Tài liệu: 
 - [Range DP](https://usaco.guide/gold/dp-ranges?lang=cpp) (USACO Guide)
@@ -604,13 +605,13 @@ Problems| Tags| Editorial
 [Quản lý vùng BALLAS](https://lqdoj.edu.vn/problem/connect)| | [code](https://ideone.com/mWJ4L4)
 [Phá đường](https://oj.vnoi.info/problem/qhroad)| | [code](https://ideone.com/hdP1qo)
 [Yugi-Oh](https://oj.vnoi.info/problem/yugi)| | [code](https://ideone.com/qcYpZD)
-[D. Igor In the Museum](https://codeforces.com/problemset/problem/598/D)| |
+[CHỌN ROBOT](https://oj.vnoi.info/problem/pvoi14_2)| |
 [A. Knight Tournament](https://codeforces.com/problemset/problem/356/A)| | [code](https://ideone.com/Y5D4bc)
 [CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)| | [code](https://ideone.com/fDfpKC)
 [Tái cấu trúc công ty](https://oj.vnoi.info/problem/dsu_h)| | 
 [G. Path Queries](https://codeforces.com/contest/1213/problem/G)| | [code](https://ideone.com/GbDzIa)
 [Đặc trưng của cây (OLP MT&TN 2022 CT)](https://lqdoj.edu.vn/problem/olp3g)| | [code](https://ideone.com/TVQLHL)
-[CHỌN ROBOT](https://oj.vnoi.info/problem/pvoi14_2)| |
+[Garden of Stone](https://oj.vnoi.info/problem/icpc25_mt_g)| DSU x BIT|
 #### Small to Large: 
 |Problems |Tags |Editorial
 |--|:--:|:--:
@@ -647,6 +648,7 @@ Problems| Tags| Editorial
 [D. Olya and Energy Drinks](https://codeforces.com/problemset/problem/877/D)| |
 [Graph Girth](https://cses.fi/problemset/task/1707/)| | [code](https://ideone.com/1LgoDh)
 [Swap Game](https://cses.fi/problemset/task/1670/)| | [code](https://ideone.com/sXHqCN)
+[CAMELOT](https://lqdoj.edu.vn/problem/camelot)| | [code](https://ideone.com/j0Xy30)
 [Monsters](https://cses.fi/problemset/task/1194)| Multi-source BFS| [code](https://ideone.com/AacRk9)
 #### Dijkstra: 
 |Problems |Tags |Editorial
@@ -823,10 +825,10 @@ Problems| Tags| Editorial
 #### XOR Hasing / Sum Hashing:
 |Problems |Tags |Editorial
 |--|:--:|:--: 
-[Lật xu](https://lqdoj.edu.vn/problem/coinflip)| XOR Hashing | [code](https://ideone.com/dKglnw)
-[E - Prefix Equality](https://atcoder.jp/contests/abc250/tasks/abc250_e)| | [code](https://ideone.com/x4tyk0)
+[Lật xu](https://lqdoj.edu.vn/problem/coinflip)| XOR Hashing | [code](https://ideone.com/eJCm0i)
+[E - Prefix Equality](https://atcoder.jp/contests/abc250/tasks/abc250_e)| | [code](https://ideone.com/MxUrUa)
 [C. Double Profiles](https://codeforces.com/problemset/problem/154/C)| | [code](https://ideone.com/5stJQH)
-[F - Rearrange Query](https://atcoder.jp/contests/abc367/tasks/abc367_f)| Sum Hashing | [code](https://ideone.com/nKJ0uh)
+[F - Rearrange Query](https://atcoder.jp/contests/abc367/tasks/abc367_f)| Sum Hashing | [code](https://ideone.com/p9hR08)
 
 ### Chương 2: Trie
 #### Tài liệu: 
